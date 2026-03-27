@@ -1,0 +1,651 @@
+id,name,domain,language,framework,difficulty,skills,team_size,description
+1,3D Game 1,Blockchain,TypeScript,Spring Boot,Beginner,JavaScript|React|State Management,2,Build a blockchain project using TypeScript and Spring Boot framework.
+2,ERP Solution 2,Web,Go,Django,Intermediate,Rust|Memory Safety|Performance,5,Build a web project using Go and Django framework.
+3,Dashboard 3,Machine Learning,Java,Next.js,Beginner,JavaScript|React|Node.js|Database,3,Build a machine learning project using Java and Next.js framework.
+4,Racing Game 4,Web,JavaScript,Express,Expert,Rust|Memory Safety|Performance,3,Build a web project using JavaScript and Express framework.
+5,Mobile App 5,Web,TypeScript,Angular,Advanced,Python|NLP|Text Processing,2,Build a web project using TypeScript and Angular framework.
+6,Intrusion Detector 6,Cybersecurity,TypeScript,Svelte,Beginner,Rust|Memory Safety|Performance,5,Build a cybersecurity project using TypeScript and Svelte framework.
+7,Backup Tool 7,Mobile,Java,Svelte,Expert,Python|NLP|Machine Learning,3,Build a mobile project using Java and Svelte framework.
+8,Load Balancer 8,Mobile,Go,Express,Beginner,Rust|Memory Safety|Performance,1,Build a mobile project using Go and Express framework.
+9,Racing Game 9,Machine Learning,JavaScript,Django,Beginner,Java|Spring|Microservices,4,Build a machine learning project using JavaScript and Django framework.
+10,API Gateway 10,Cybersecurity,Ruby,Flask,Expert,Python|NLP|Text Processing,4,Build a cybersecurity project using Ruby and Flask framework.
+11,Recommendation System 11,Mobile,PHP,Ember,Beginner,Go|Concurrency|Scalability,3,Build a mobile project using PHP and Ember framework.
+12,File Manager 12,Data Science,Rust,Flask,Expert,Python|NLP|Machine Learning,5,Build a data science project using Rust and Flask framework.
+13,ChatBot 13,Web,Ruby,Express,Advanced,DevOps|Docker|Kubernetes,2,Build a web project using Ruby and Express framework.
+14,Blog Platform 14,Data Science,C++,Express,Expert,IoT|Embedded Systems|Hardware,5,Build a data science project using C++ and Express framework.
+15,Log Aggregator 15,DevOps,TypeScript,Next.js,Advanced,Java|Spring|Microservices,2,Build a devops project using TypeScript and Next.js framework.
+16,Resume Analyzer 16,Mobile,Go,Angular,Expert,Blockchain|Smart Contracts|Crypto,4,Build a mobile project using Go and Angular framework.
+17,Strategy Game 17,Game Development,TypeScript,Express,Advanced,Cybersecurity|Encryption|Penetration Testing,3,Build a game development project using TypeScript and Express framework.
+18,Data Pipeline 18,AI,Java,Spring Boot,Advanced,Go|Concurrency|Scalability,5,Build a ai project using Java and Spring Boot framework.
+19,Resume Analyzer 19,DevOps,Go,Flask,Intermediate,Python|ML|Data Analysis,3,Build a devops project using Go and Flask framework.
+20,Music Player 20,Game Development,Rust,Spring Boot,Beginner,Python|NLP|Text Processing,2,Build a game development project using Rust and Spring Boot framework.
+21,ERP Solution 21,Game Development,TypeScript,Spring Boot,Intermediate,Python|ML|Data Analysis,4,Build a game development project using TypeScript and Spring Boot framework.
+22,Log Aggregator 22,DevOps,Go,Django,Advanced,Blockchain|Smart Contracts|Crypto,4,Build a devops project using Go and Django framework.
+23,E-Commerce 23,Web,Rust,React,Advanced,TypeScript|OOP|Design Patterns,3,Build a web project using Rust and React framework.
+24,Resume Analyzer 24,Blockchain,C++,Ember,Intermediate,Python|NLP|Machine Learning,2,Build a blockchain project using C++ and Ember framework.
+25,ERP Solution 25,Mobile,Java,FastAPI,Advanced,Python|NLP|Machine Learning,3,Build a mobile project using Java and FastAPI framework.
+26,Wiki Platform 26,Cybersecurity,Java,Ember,Expert,Python|Deep Learning|Computer Vision,3,Build a cybersecurity project using Java and Ember framework.
+27,Blog Platform 27,Machine Learning,PHP,Next.js,Advanced,IoT|Embedded Systems|Hardware,4,Build a machine learning project using PHP and Next.js framework.
+28,Password Manager 28,Mobile,JavaScript,Flask,Intermediate,C++|Game Engine|Graphics,1,Build a mobile project using JavaScript and Flask framework.
+29,Mobile App 29,IoT,TypeScript,FastAPI,Advanced,Python|ML|Data Analysis,2,Build a iot project using TypeScript and FastAPI framework.
+30,Puzzle Game 30,Web,PHP,Django,Advanced,IoT|Embedded Systems|Hardware,4,Build a web project using PHP and Django framework.
+31,Stock Analyzer 31,Cybersecurity,C++,Nuxt,Intermediate,Cybersecurity|Encryption|Penetration Testing,1,Build a cybersecurity project using C++ and Nuxt framework.
+32,Dashboard 32,DevOps,C++,Django,Expert,Blockchain|Smart Contracts|Crypto,2,Build a devops project using C++ and Django framework.
+33,Password Manager 33,Machine Learning,Rust,Ember,Expert,IoT|Embedded Systems|Hardware,3,Build a machine learning project using Rust and Ember framework.
+34,Recommendation System 34,Data Science,Java,FastAPI,Advanced,Rust|Memory Safety|Performance,3,Build a data science project using Java and FastAPI framework.
+35,Recommendation System 35,Web,Java,Svelte,Expert,IoT|Embedded Systems|Hardware,1,Build a web project using Java and Svelte framework.
+36,Virtual Machine 36,DevOps,C#,Django,Advanced,C++|Game Engine|Graphics,5,Build a devops project using C# and Django framework.
+37,Strategy Game 37,Web,PHP,Flask,Beginner,Python|ML|Data Analysis,4,Build a web project using PHP and Flask framework.
+38,CI/CD Pipeline 38,Game Development,PHP,Angular,Advanced,DevOps|Docker|Kubernetes,2,Build a game development project using PHP and Angular framework.
+39,E-Commerce 39,Game Development,Java,FastAPI,Intermediate,JavaScript|Vue.js|API Integration,5,Build a game development project using Java and FastAPI framework.
+40,Puzzle Game 40,Mobile,JavaScript,FastAPI,Intermediate,Java|Spring|Microservices,4,Build a mobile project using JavaScript and FastAPI framework.
+41,Blog Platform 41,DevOps,C++,FastAPI,Intermediate,JavaScript|React|State Management,2,Build a devops project using C++ and FastAPI framework.
+42,Network Simulator 42,Cybersecurity,Rust,Svelte,Expert,Cybersecurity|Encryption|Penetration Testing,3,Build a cybersecurity project using Rust and Svelte framework.
+43,Traffic Monitor 43,DevOps,JavaScript,FastAPI,Beginner,Python|Deep Learning|Computer Vision,1,Build a devops project using JavaScript and FastAPI framework.
+44,Video Streaming 44,Mobile,Rust,Vue.js,Intermediate,JavaScript|React|State Management,3,Build a mobile project using Rust and Vue.js framework.
+45,Strategy Game 45,Mobile,C++,Svelte,Expert,Python|NLP|Machine Learning,4,Build a mobile project using C++ and Svelte framework.
+46,VPN Client 46,Mobile,JavaScript,Spring Boot,Expert,Cybersecurity|Encryption|Penetration Testing,2,Build a mobile project using JavaScript and Spring Boot framework.
+47,Wiki Platform 47,AI,Go,Vue.js,Intermediate,Cybersecurity|Encryption|Penetration Testing,5,Build a ai project using Go and Vue.js framework.
+48,Wiki Platform 48,AI,Java,Ember,Advanced,JavaScript|React|Node.js|Database,2,Build a ai project using Java and Ember framework.
+49,Forum App 49,Machine Learning,C++,Spring Boot,Beginner,C++|Game Engine|Graphics,5,Build a machine learning project using C++ and Spring Boot framework.
+50,Cloud Storage 50,Mobile,Rust,Spring Boot,Advanced,Java|Spring|Microservices,3,Build a mobile project using Rust and Spring Boot framework.
+51,Music Player 51,Cybersecurity,Go,Vue.js,Beginner,Python|NLP|Machine Learning,2,Build a cybersecurity project using Go and Vue.js framework.
+52,Video Streaming 52,IoT,Python,Vue.js,Intermediate,Python|NLP|Machine Learning,5,Build a iot project using Python and Vue.js framework.
+53,Racing Game 53,Machine Learning,TypeScript,Spring Boot,Expert,Python|NLP|Text Processing,4,Build a machine learning project using TypeScript and Spring Boot framework.
+54,REST API 54,IoT,JavaScript,Express,Advanced,Python|Deep Learning|Computer Vision,2,Build a iot project using JavaScript and Express framework.
+55,Image Classifier 55,DevOps,TypeScript,Angular,Advanced,Cybersecurity|Encryption|Penetration Testing,5,Build a devops project using TypeScript and Angular framework.
+56,CI/CD Pipeline 56,Mobile,Java,FastAPI,Intermediate,Java|Spring|Microservices,1,Build a mobile project using Java and FastAPI framework.
+57,Social Network 57,Blockchain,C++,Express,Beginner,Python|Deep Learning|Computer Vision,3,Build a blockchain project using C++ and Express framework.
+58,Recommendation System 58,DevOps,C#,Next.js,Advanced,Cybersecurity|Encryption|Penetration Testing,1,Build a devops project using C# and Next.js framework.
+59,Payment Gateway 59,Mobile,Ruby,Next.js,Beginner,JavaScript|Vue.js|API Integration,2,Build a mobile project using Ruby and Next.js framework.
+60,Intrusion Detector 60,Data Science,Python,Svelte,Beginner,Python|Deep Learning|Computer Vision,3,Build a data science project using Python and Svelte framework.
+61,File Manager 61,Data Science,PHP,Vue.js,Expert,JavaScript|React|State Management,2,Build a data science project using PHP and Vue.js framework.
+62,ChatBot 62,AI,Rust,FastAPI,Expert,Python|Data Analysis|Visualization,2,Build a ai project using Rust and FastAPI framework.
+63,AR Application 63,Blockchain,C++,Vue.js,Intermediate,Python|NLP|Text Processing,4,Build a blockchain project using C++ and Vue.js framework.
+64,Notification System 64,Mobile,Java,React,Expert,Python|Data Analysis|Visualization,1,Build a mobile project using Java and React framework.
+65,Payment Gateway 65,Data Science,JavaScript,Spring Boot,Intermediate,JavaScript|React|Node.js,5,Build a data science project using JavaScript and Spring Boot framework.
+66,Intrusion Detector 66,Blockchain,C++,FastAPI,Intermediate,Python|Deep Learning|Computer Vision,1,Build a blockchain project using C++ and FastAPI framework.
+67,Traffic Monitor 67,Game Development,JavaScript,React,Expert,Cybersecurity|Encryption|Penetration Testing,3,Build a game development project using JavaScript and React framework.
+68,API Gateway 68,IoT,Java,React,Intermediate,Cybersecurity|Encryption|Penetration Testing,5,Build a iot project using Java and React framework.
+69,REST API 69,Mobile,C++,Vue.js,Expert,Python|Deep Learning|Computer Vision,1,Build a mobile project using C++ and Vue.js framework.
+70,ERP Solution 70,DevOps,Python,Nuxt,Expert,Cybersecurity|Encryption|Penetration Testing,1,Build a devops project using Python and Nuxt framework.
+71,Mobile App 71,AI,Python,Svelte,Advanced,Python|NLP|Text Processing,2,Build a ai project using Python and Svelte framework.
+72,Traffic Monitor 72,IoT,PHP,Spring Boot,Expert,JavaScript|Vue.js|API Integration,1,Build a iot project using PHP and Spring Boot framework.
+73,CI/CD Pipeline 73,Web,Ruby,Svelte,Expert,Go|Concurrency|Scalability,1,Build a web project using Ruby and Svelte framework.
+74,Puzzle Game 74,Web,PHP,Express,Expert,JavaScript|React|State Management,3,Build a web project using PHP and Express framework.
+75,Recommendation System 75,IoT,C++,Flask,Intermediate,DevOps|Docker|Kubernetes,2,Build a iot project using C++ and Flask framework.
+76,API Gateway 76,AI,Go,React,Advanced,DevOps|Docker|Kubernetes,5,Build a ai project using Go and React framework.
+77,Intrusion Detector 77,Cybersecurity,C#,Next.js,Beginner,Python|Data Analysis|Visualization,2,Build a cybersecurity project using C# and Next.js framework.
+78,Load Balancer 78,Data Science,Rust,Django,Intermediate,Python|NLP|Text Processing,1,Build a data science project using Rust and Django framework.
+79,Data Pipeline 79,Data Science,Python,Spring Boot,Beginner,Java|Spring|Microservices,4,Build a data science project using Python and Spring Boot framework.
+80,3D Game 80,Data Science,C#,Next.js,Intermediate,Python|Deep Learning|Computer Vision,2,Build a data science project using C# and Next.js framework.
+81,CRM System 81,Data Science,PHP,Flask,Expert,Python|ML|Data Analysis,2,Build a data science project using PHP and Flask framework.
+82,Monitoring System 82,AI,C++,Flask,Expert,TypeScript|OOP|Design Patterns,5,Build a ai project using C++ and Flask framework.
+83,Container Registry 83,DevOps,Rust,Django,Advanced,Blockchain|Smart Contracts|Crypto,3,Build a devops project using Rust and Django framework.
+84,Video Streaming 84,Machine Learning,Python,Svelte,Advanced,Blockchain|Smart Contracts|Crypto,2,Build a machine learning project using Python and Svelte framework.
+85,Notification System 85,DevOps,Rust,Ember,Expert,IoT|Embedded Systems|Hardware,4,Build a devops project using Rust and Ember framework.
+86,Image Classifier 86,Data Science,JavaScript,Ember,Advanced,TypeScript|OOP|Design Patterns,3,Build a data science project using JavaScript and Ember framework.
+87,Search Engine 87,Game Development,C++,React,Intermediate,JavaScript|React|Node.js,5,Build a game development project using C++ and React framework.
+88,Load Balancer 88,Web,C#,Django,Intermediate,Cybersecurity|Encryption|Penetration Testing,2,Build a web project using C# and Django framework.
+89,Firewall 89,DevOps,Python,FastAPI,Advanced,Python|NLP|Text Processing,4,Build a devops project using Python and FastAPI framework.
+90,Network Simulator 90,Blockchain,C#,React,Advanced,Rust|Memory Safety|Performance,1,Build a blockchain project using C# and React framework.
+91,Notification System 91,IoT,C++,Nuxt,Advanced,JavaScript|React|Node.js|Database,1,Build a iot project using C++ and Nuxt framework.
+92,Weather Dashboard 92,Data Science,Java,React,Intermediate,JavaScript|React|State Management,5,Build a data science project using Java and React framework.
+93,VPN Client 93,DevOps,PHP,Flask,Advanced,JavaScript|React|Node.js,3,Build a devops project using PHP and Flask framework.
+94,Payment Gateway 94,Machine Learning,C++,Ember,Intermediate,JavaScript|React|Node.js,4,Build a machine learning project using C++ and Ember framework.
+95,Backup Tool 95,Mobile,C++,React,Beginner,Blockchain|Smart Contracts|Crypto,5,Build a mobile project using C++ and React framework.
+96,ChatBot 96,Data Science,Ruby,Django,Expert,DevOps|Docker|Kubernetes,4,Build a data science project using Ruby and Django framework.
+97,ChatBot 97,DevOps,Go,Vue.js,Intermediate,Python|NLP|Machine Learning,2,Build a devops project using Go and Vue.js framework.
+98,Network Simulator 98,Blockchain,JavaScript,Angular,Beginner,Python|NLP|Text Processing,5,Build a blockchain project using JavaScript and Angular framework.
+99,AR Application 99,Blockchain,C++,FastAPI,Intermediate,JavaScript|React|Node.js|Database,5,Build a blockchain project using C++ and FastAPI framework.
+100,REST API 100,Mobile,C++,Svelte,Intermediate,JavaScript|React|Node.js,5,Build a mobile project using C++ and Svelte framework.
+101,Firewall 101,Data Science,JavaScript,Express,Intermediate,IoT|Embedded Systems|Hardware,5,Build a data science project using JavaScript and Express framework.
+102,Music Player 102,Web,Go,Spring Boot,Beginner,JavaScript|React|Node.js|Database,4,Build a web project using Go and Spring Boot framework.
+103,Analytics Tool 103,IoT,Ruby,Angular,Beginner,JavaScript|Vue.js|API Integration,5,Build a iot project using Ruby and Angular framework.
+104,Wiki Platform 104,Blockchain,C++,Spring Boot,Expert,Python|Data Analysis|Visualization,1,Build a blockchain project using C++ and Spring Boot framework.
+105,Weather Dashboard 105,Data Science,JavaScript,Next.js,Expert,Python|ML|Data Analysis,5,Build a data science project using JavaScript and Next.js framework.
+106,Firewall 106,AI,C#,Svelte,Beginner,Cybersecurity|Encryption|Penetration Testing,5,Build a ai project using C# and Svelte framework.
+107,Weather Dashboard 107,Machine Learning,Java,Spring Boot,Advanced,JavaScript|React|State Management,1,Build a machine learning project using Java and Spring Boot framework.
+108,Notification System 108,DevOps,Java,Flask,Expert,Python|Deep Learning|Computer Vision,5,Build a devops project using Java and Flask framework.
+109,Monitoring System 109,IoT,JavaScript,Next.js,Intermediate,JavaScript|Vue.js|API Integration,1,Build a iot project using JavaScript and Next.js framework.
+110,Stock Analyzer 110,DevOps,JavaScript,Flask,Beginner,Python|NLP|Text Processing,2,Build a devops project using JavaScript and Flask framework.
+111,Chat Application 111,Game Development,PHP,Next.js,Beginner,IoT|Embedded Systems|Hardware,4,Build a game development project using PHP and Next.js framework.
+112,Weather Dashboard 112,Web,JavaScript,Spring Boot,Advanced,C++|Game Engine|Graphics,5,Build a web project using JavaScript and Spring Boot framework.
+113,Forum App 113,Cybersecurity,C#,Nuxt,Advanced,IoT|Embedded Systems|Hardware,1,Build a cybersecurity project using C# and Nuxt framework.
+114,Intrusion Detector 114,AI,Python,Svelte,Intermediate,Blockchain|Smart Contracts|Crypto,3,Build a ai project using Python and Svelte framework.
+115,Virtual Machine 115,Web,Python,Vue.js,Intermediate,JavaScript|React|Node.js|Database,1,Build a web project using Python and Vue.js framework.
+116,CRM System 116,Data Science,Ruby,Flask,Beginner,Cybersecurity|Encryption|Penetration Testing,5,Build a data science project using Ruby and Flask framework.
+117,Traffic Monitor 117,AI,C++,Next.js,Intermediate,Java|Spring|Microservices,1,Build a ai project using C++ and Next.js framework.
+118,Backup Tool 118,IoT,Java,Next.js,Advanced,Python|ML|Data Analysis,5,Build a iot project using Java and Next.js framework.
+119,Mobile App 119,AI,JavaScript,Flask,Beginner,Go|Concurrency|Scalability,1,Build a ai project using JavaScript and Flask framework.
+120,Load Balancer 120,Machine Learning,Rust,Next.js,Advanced,Blockchain|Smart Contracts|Crypto,2,Build a machine learning project using Rust and Next.js framework.
+121,CRM System 121,Machine Learning,PHP,FastAPI,Beginner,Cybersecurity|Encryption|Penetration Testing,4,Build a machine learning project using PHP and FastAPI framework.
+122,API Gateway 122,IoT,PHP,Nuxt,Expert,TypeScript|OOP|Design Patterns,1,Build a iot project using PHP and Nuxt framework.
+123,Monitoring System 123,DevOps,Java,Express,Expert,Python|Data Analysis|Visualization,2,Build a devops project using Java and Express framework.
+124,Forum App 124,Game Development,Python,Express,Intermediate,Python|Deep Learning|Computer Vision,4,Build a game development project using Python and Express framework.
+125,Photo Editor 125,IoT,PHP,Next.js,Advanced,Python|Deep Learning|Computer Vision,1,Build a iot project using PHP and Next.js framework.
+126,ERP Solution 126,AI,C++,Angular,Advanced,Python|NLP|Text Processing,1,Build a ai project using C++ and Angular framework.
+127,Notification System 127,Cybersecurity,Ruby,Next.js,Beginner,Python|ML|Data Analysis,4,Build a cybersecurity project using Ruby and Next.js framework.
+128,Video Streaming 128,Machine Learning,JavaScript,Django,Intermediate,Blockchain|Smart Contracts|Crypto,4,Build a machine learning project using JavaScript and Django framework.
+129,Search Engine 129,Cybersecurity,C++,Next.js,Advanced,JavaScript|React|State Management,5,Build a cybersecurity project using C++ and Next.js framework.
+130,Recommendation System 130,IoT,JavaScript,Vue.js,Beginner,Python|NLP|Machine Learning,5,Build a iot project using JavaScript and Vue.js framework.
+131,VPN Client 131,DevOps,Go,Nuxt,Intermediate,C++|Game Engine|Graphics,1,Build a devops project using Go and Nuxt framework.
+132,API Gateway 132,Data Science,Rust,Angular,Expert,IoT|Embedded Systems|Hardware,4,Build a data science project using Rust and Angular framework.
+133,Recommendation System 133,Data Science,JavaScript,FastAPI,Expert,Python|ML|Data Analysis,4,Build a data science project using JavaScript and FastAPI framework.
+134,Backup Tool 134,Machine Learning,Go,Flask,Expert,DevOps|Docker|Kubernetes,3,Build a machine learning project using Go and Flask framework.
+135,Forum App 135,Game Development,C#,Angular,Beginner,JavaScript|Vue.js|API Integration,1,Build a game development project using C# and Angular framework.
+136,ChatBot 136,IoT,Go,Django,Expert,Java|Spring|Microservices,2,Build a iot project using Go and Django framework.
+137,Blog Platform 137,IoT,PHP,Express,Advanced,Cybersecurity|Encryption|Penetration Testing,5,Build a iot project using PHP and Express framework.
+138,Strategy Game 138,IoT,Go,Django,Intermediate,Python|NLP|Machine Learning,3,Build a iot project using Go and Django framework.
+139,Strategy Game 139,Data Science,Go,Django,Expert,Java|Spring|Microservices,1,Build a data science project using Go and Django framework.
+140,Strategy Game 140,DevOps,PHP,Express,Beginner,JavaScript|React|Node.js|Database,5,Build a devops project using PHP and Express framework.
+141,Traffic Monitor 141,IoT,C++,React,Advanced,C++|Game Engine|Graphics,1,Build a iot project using C++ and React framework.
+142,Social Network 142,Data Science,Ruby,Django,Intermediate,JavaScript|React|State Management,4,Build a data science project using Ruby and Django framework.
+143,Racing Game 143,Cybersecurity,TypeScript,Express,Beginner,DevOps|Docker|Kubernetes,5,Build a cybersecurity project using TypeScript and Express framework.
+144,Analytics Tool 144,DevOps,Python,Next.js,Expert,JavaScript|React|Node.js,5,Build a devops project using Python and Next.js framework.
+145,Racing Game 145,AI,C++,Svelte,Expert,C++|Game Engine|Graphics,1,Build a ai project using C++ and Svelte framework.
+146,Mobile App 146,Data Science,TypeScript,Svelte,Beginner,Go|Concurrency|Scalability,5,Build a data science project using TypeScript and Svelte framework.
+147,Image Classifier 147,IoT,PHP,React,Beginner,Python|NLP|Text Processing,3,Build a iot project using PHP and React framework.
+148,Scheduler 148,Blockchain,Python,Django,Beginner,Blockchain|Smart Contracts|Crypto,2,Build a blockchain project using Python and Django framework.
+149,Puzzle Game 149,Machine Learning,Java,Nuxt,Advanced,Go|Concurrency|Scalability,2,Build a machine learning project using Java and Nuxt framework.
+150,File Manager 150,AI,Ruby,FastAPI,Beginner,DevOps|Docker|Kubernetes,5,Build a ai project using Ruby and FastAPI framework.
+151,Puzzle Game 151,Cybersecurity,C#,Next.js,Intermediate,Rust|Memory Safety|Performance,1,Build a cybersecurity project using C# and Next.js framework.
+152,Forum App 152,AI,Python,Django,Expert,C++|Game Engine|Graphics,4,Build a ai project using Python and Django framework.
+153,3D Game 153,IoT,Python,FastAPI,Advanced,JavaScript|React|Node.js,4,Build a iot project using Python and FastAPI framework.
+154,Log Aggregator 154,Cybersecurity,C#,Flask,Advanced,Go|Concurrency|Scalability,2,Build a cybersecurity project using C# and Flask framework.
+155,Cloud Storage 155,Machine Learning,PHP,React,Advanced,JavaScript|Vue.js|API Integration,2,Build a machine learning project using PHP and React framework.
+156,ERP Solution 156,Mobile,Java,Spring Boot,Beginner,TypeScript|OOP|Design Patterns,4,Build a mobile project using Java and Spring Boot framework.
+157,Wiki Platform 157,IoT,Go,Express,Advanced,Rust|Memory Safety|Performance,1,Build a iot project using Go and Express framework.
+158,Forum App 158,Blockchain,Go,React,Intermediate,DevOps|Docker|Kubernetes,3,Build a blockchain project using Go and React framework.
+159,Cloud Storage 159,Web,TypeScript,Vue.js,Expert,Rust|Memory Safety|Performance,3,Build a web project using TypeScript and Vue.js framework.
+160,ChatBot 160,Machine Learning,Python,Ember,Beginner,DevOps|Docker|Kubernetes,1,Build a machine learning project using Python and Ember framework.
+161,Data Pipeline 161,Blockchain,Rust,Spring Boot,Expert,C++|Game Engine|Graphics,4,Build a blockchain project using Rust and Spring Boot framework.
+162,Stock Analyzer 162,Cybersecurity,TypeScript,Angular,Advanced,Rust|Memory Safety|Performance,4,Build a cybersecurity project using TypeScript and Angular framework.
+163,Racing Game 163,Game Development,C#,Ember,Advanced,Java|Spring|Microservices,1,Build a game development project using C# and Ember framework.
+164,AR Application 164,Web,C++,Angular,Beginner,JavaScript|React|Node.js,4,Build a web project using C++ and Angular framework.
+165,Traffic Monitor 165,AI,PHP,React,Beginner,C++|Game Engine|Graphics,3,Build a ai project using PHP and React framework.
+166,Virtual Machine 166,AI,JavaScript,Flask,Expert,IoT|Embedded Systems|Hardware,3,Build a ai project using JavaScript and Flask framework.
+167,Monitoring System 167,IoT,Java,Ember,Beginner,Blockchain|Smart Contracts|Crypto,5,Build a iot project using Java and Ember framework.
+168,Virtual Machine 168,Data Science,Ruby,Next.js,Intermediate,TypeScript|OOP|Design Patterns,1,Build a data science project using Ruby and Next.js framework.
+169,Analytics Tool 169,AI,Ruby,Angular,Expert,Cybersecurity|Encryption|Penetration Testing,2,Build a ai project using Ruby and Angular framework.
+170,Log Aggregator 170,IoT,PHP,Next.js,Expert,IoT|Embedded Systems|Hardware,3,Build a iot project using PHP and Next.js framework.
+171,Recommendation System 171,Blockchain,TypeScript,Vue.js,Advanced,Python|Data Analysis|Visualization,2,Build a blockchain project using TypeScript and Vue.js framework.
+172,API Gateway 172,DevOps,C#,Express,Intermediate,Go|Concurrency|Scalability,2,Build a devops project using C# and Express framework.
+173,Payment Gateway 173,Mobile,JavaScript,Django,Intermediate,JavaScript|Vue.js|API Integration,4,Build a mobile project using JavaScript and Django framework.
+174,Image Classifier 174,Cybersecurity,PHP,React,Expert,Python|NLP|Machine Learning,5,Build a cybersecurity project using PHP and React framework.
+175,Puzzle Game 175,Web,Ruby,Angular,Intermediate,Cybersecurity|Encryption|Penetration Testing,1,Build a web project using Ruby and Angular framework.
+176,Traffic Monitor 176,IoT,C#,Spring Boot,Beginner,Python|Deep Learning|Computer Vision,2,Build a iot project using C# and Spring Boot framework.
+177,Network Simulator 177,IoT,Python,Flask,Expert,Python|Data Analysis|Visualization,4,Build a iot project using Python and Flask framework.
+178,Scheduler 178,IoT,Go,React,Beginner,Go|Concurrency|Scalability,5,Build a iot project using Go and React framework.
+179,VPN Client 179,DevOps,Go,Nuxt,Advanced,Python|NLP|Machine Learning,4,Build a devops project using Go and Nuxt framework.
+180,Chat Application 180,AI,TypeScript,Nuxt,Advanced,DevOps|Docker|Kubernetes,4,Build a ai project using TypeScript and Nuxt framework.
+181,Cloud Storage 181,Web,Java,Svelte,Intermediate,Python|ML|Data Analysis,2,Build a web project using Java and Svelte framework.
+182,File Manager 182,Web,C#,Angular,Beginner,DevOps|Docker|Kubernetes,4,Build a web project using C# and Angular framework.
+183,Chat Application 183,Mobile,JavaScript,Vue.js,Beginner,Python|NLP|Text Processing,3,Build a mobile project using JavaScript and Vue.js framework.
+184,Video Streaming 184,IoT,Python,FastAPI,Expert,Python|ML|Data Analysis,3,Build a iot project using Python and FastAPI framework.
+185,Chat Application 185,Data Science,C++,Express,Beginner,Java|Spring|Microservices,5,Build a data science project using C++ and Express framework.
+186,Dashboard 186,Web,Python,Ember,Beginner,Python|ML|Data Analysis,3,Build a web project using Python and Ember framework.
+187,AR Application 187,DevOps,JavaScript,Angular,Beginner,Go|Concurrency|Scalability,3,Build a devops project using JavaScript and Angular framework.
+188,Image Classifier 188,Blockchain,PHP,Express,Advanced,JavaScript|React|State Management,1,Build a blockchain project using PHP and Express framework.
+189,Document Generator 189,Cybersecurity,PHP,FastAPI,Beginner,Blockchain|Smart Contracts|Crypto,3,Build a cybersecurity project using PHP and FastAPI framework.
+190,Racing Game 190,AI,Go,Express,Expert,Java|Spring|Microservices,3,Build a ai project using Go and Express framework.
+191,Network Simulator 191,Blockchain,Rust,Nuxt,Intermediate,IoT|Embedded Systems|Hardware,1,Build a blockchain project using Rust and Nuxt framework.
+192,Intrusion Detector 192,IoT,JavaScript,Express,Beginner,Rust|Memory Safety|Performance,3,Build a iot project using JavaScript and Express framework.
+193,Dashboard 193,AI,C#,Flask,Beginner,Cybersecurity|Encryption|Penetration Testing,4,Build a ai project using C# and Flask framework.
+194,3D Game 194,Cybersecurity,C#,Django,Beginner,Blockchain|Smart Contracts|Crypto,4,Build a cybersecurity project using C# and Django framework.
+195,Stock Analyzer 195,IoT,JavaScript,Spring Boot,Advanced,JavaScript|React|State Management,4,Build a iot project using JavaScript and Spring Boot framework.
+196,Load Balancer 196,Cybersecurity,Rust,Svelte,Intermediate,Python|Deep Learning|Computer Vision,3,Build a cybersecurity project using Rust and Svelte framework.
+197,Document Generator 197,IoT,Java,Nuxt,Intermediate,Blockchain|Smart Contracts|Crypto,2,Build a iot project using Java and Nuxt framework.
+198,Wiki Platform 198,Cybersecurity,C#,Angular,Expert,DevOps|Docker|Kubernetes,4,Build a cybersecurity project using C# and Angular framework.
+199,Weather Dashboard 199,Mobile,Python,Django,Beginner,Blockchain|Smart Contracts|Crypto,2,Build a mobile project using Python and Django framework.
+200,Network Simulator 200,Machine Learning,PHP,Vue.js,Intermediate,Java|Spring|Microservices,1,Build a machine learning project using PHP and Vue.js framework.
+201,Backup Tool 201,Cybersecurity,C#,React,Beginner,Python|NLP|Machine Learning,1,Build a cybersecurity project using C# and React framework.
+202,ERP Solution 202,Game Development,C#,Svelte,Beginner,JavaScript|React|Node.js,2,Build a game development project using C# and Svelte framework.
+203,Recommendation System 203,Cybersecurity,TypeScript,Django,Advanced,TypeScript|OOP|Design Patterns,3,Build a cybersecurity project using TypeScript and Django framework.
+204,File Manager 204,AI,Ruby,Spring Boot,Advanced,Go|Concurrency|Scalability,3,Build a ai project using Ruby and Spring Boot framework.
+205,Container Registry 205,Machine Learning,Rust,React,Expert,Blockchain|Smart Contracts|Crypto,1,Build a machine learning project using Rust and React framework.
+206,Racing Game 206,Cybersecurity,TypeScript,Vue.js,Beginner,TypeScript|OOP|Design Patterns,4,Build a cybersecurity project using TypeScript and Vue.js framework.
+207,Firewall 207,IoT,Java,Vue.js,Expert,TypeScript|OOP|Design Patterns,1,Build a iot project using Java and Vue.js framework.
+208,Password Manager 208,Machine Learning,TypeScript,Nuxt,Expert,JavaScript|React|State Management,1,Build a machine learning project using TypeScript and Nuxt framework.
+209,Dashboard 209,Blockchain,Rust,Angular,Advanced,Python|Deep Learning|Computer Vision,2,Build a blockchain project using Rust and Angular framework.
+210,ChatBot 210,Game Development,Python,React,Advanced,JavaScript|React|State Management,5,Build a game development project using Python and React framework.
+211,Resume Analyzer 211,IoT,Go,Vue.js,Beginner,JavaScript|Vue.js|API Integration,5,Build a iot project using Go and Vue.js framework.
+212,ChatBot 212,Web,Java,Svelte,Intermediate,Python|NLP|Text Processing,1,Build a web project using Java and Svelte framework.
+213,Mobile App 213,Blockchain,C#,Svelte,Intermediate,Python|NLP|Machine Learning,2,Build a blockchain project using C# and Svelte framework.
+214,Racing Game 214,DevOps,Rust,Vue.js,Advanced,Python|Deep Learning|Computer Vision,2,Build a devops project using Rust and Vue.js framework.
+215,VPN Client 215,Game Development,Java,Django,Beginner,Python|ML|Data Analysis,3,Build a game development project using Java and Django framework.
+216,Racing Game 216,Game Development,Rust,Express,Beginner,Python|NLP|Machine Learning,2,Build a game development project using Rust and Express framework.
+217,Forum App 217,Blockchain,TypeScript,Vue.js,Intermediate,JavaScript|React|Node.js,4,Build a blockchain project using TypeScript and Vue.js framework.
+218,AR Application 218,Blockchain,Rust,Nuxt,Intermediate,JavaScript|Vue.js|API Integration,5,Build a blockchain project using Rust and Nuxt framework.
+219,Payment Gateway 219,Data Science,TypeScript,Angular,Advanced,Go|Concurrency|Scalability,4,Build a data science project using TypeScript and Angular framework.
+220,Blog Platform 220,Game Development,PHP,Vue.js,Intermediate,Blockchain|Smart Contracts|Crypto,1,Build a game development project using PHP and Vue.js framework.
+221,Chat Application 221,Cybersecurity,Java,Ember,Intermediate,JavaScript|React|Node.js|Database,5,Build a cybersecurity project using Java and Ember framework.
+222,Forum App 222,AI,Java,Next.js,Beginner,JavaScript|React|Node.js|Database,1,Build a ai project using Java and Next.js framework.
+223,Log Aggregator 223,Web,TypeScript,React,Beginner,TypeScript|OOP|Design Patterns,5,Build a web project using TypeScript and React framework.
+224,Puzzle Game 224,DevOps,Rust,Ember,Beginner,IoT|Embedded Systems|Hardware,1,Build a devops project using Rust and Ember framework.
+225,Scheduler 225,Machine Learning,Rust,Vue.js,Expert,Rust|Memory Safety|Performance,1,Build a machine learning project using Rust and Vue.js framework.
+226,Puzzle Game 226,Cybersecurity,JavaScript,Express,Intermediate,Go|Concurrency|Scalability,1,Build a cybersecurity project using JavaScript and Express framework.
+227,Mobile App 227,Web,C++,Spring Boot,Expert,Blockchain|Smart Contracts|Crypto,5,Build a web project using C++ and Spring Boot framework.
+228,Stock Analyzer 228,Machine Learning,TypeScript,Express,Intermediate,Python|NLP|Text Processing,3,Build a machine learning project using TypeScript and Express framework.
+229,Wiki Platform 229,Data Science,Ruby,React,Intermediate,TypeScript|OOP|Design Patterns,1,Build a data science project using Ruby and React framework.
+230,Photo Editor 230,Web,Python,Angular,Intermediate,JavaScript|React|Node.js,4,Build a web project using Python and Angular framework.
+231,CRM System 231,Blockchain,Rust,Spring Boot,Expert,JavaScript|Vue.js|API Integration,1,Build a blockchain project using Rust and Spring Boot framework.
+232,Mobile App 232,Machine Learning,C#,Svelte,Beginner,C++|Game Engine|Graphics,1,Build a machine learning project using C# and Svelte framework.
+233,Puzzle Game 233,Data Science,Rust,Vue.js,Intermediate,Python|ML|Data Analysis,4,Build a data science project using Rust and Vue.js framework.
+234,Weather Dashboard 234,AI,C#,Nuxt,Beginner,Java|Spring|Microservices,5,Build a ai project using C# and Nuxt framework.
+235,REST API 235,Data Science,TypeScript,Express,Beginner,Java|Spring|Microservices,2,Build a data science project using TypeScript and Express framework.
+236,Analytics Tool 236,Blockchain,Python,Next.js,Expert,Python|Deep Learning|Computer Vision,4,Build a blockchain project using Python and Next.js framework.
+237,Task Manager 237,Data Science,JavaScript,Next.js,Advanced,Cybersecurity|Encryption|Penetration Testing,3,Build a data science project using JavaScript and Next.js framework.
+238,Music Player 238,Mobile,JavaScript,Flask,Expert,JavaScript|Vue.js|API Integration,1,Build a mobile project using JavaScript and Flask framework.
+239,Social Network 239,DevOps,PHP,Angular,Expert,JavaScript|React|State Management,1,Build a devops project using PHP and Angular framework.
+240,Search Engine 240,AI,Python,Next.js,Advanced,Rust|Memory Safety|Performance,2,Build a ai project using Python and Next.js framework.
+241,Data Pipeline 241,Blockchain,PHP,Angular,Expert,Rust|Memory Safety|Performance,1,Build a blockchain project using PHP and Angular framework.
+242,E-Commerce 242,Game Development,Java,Spring Boot,Expert,Python|Data Analysis|Visualization,4,Build a game development project using Java and Spring Boot framework.
+243,Log Aggregator 243,Data Science,Rust,Angular,Advanced,Python|Data Analysis|Visualization,4,Build a data science project using Rust and Angular framework.
+244,Dashboard 244,Game Development,Python,Svelte,Intermediate,DevOps|Docker|Kubernetes,2,Build a game development project using Python and Svelte framework.
+245,Cloud Storage 245,Cybersecurity,Java,React,Advanced,TypeScript|OOP|Design Patterns,4,Build a cybersecurity project using Java and React framework.
+246,API Gateway 246,Data Science,Go,Vue.js,Intermediate,Cybersecurity|Encryption|Penetration Testing,4,Build a data science project using Go and Vue.js framework.
+247,REST API 247,Game Development,Ruby,Vue.js,Beginner,Python|NLP|Machine Learning,3,Build a game development project using Ruby and Vue.js framework.
+248,Video Streaming 248,DevOps,Ruby,Angular,Advanced,Python|Deep Learning|Computer Vision,1,Build a devops project using Ruby and Angular framework.
+249,API Gateway 249,Mobile,C++,Svelte,Beginner,JavaScript|Vue.js|API Integration,1,Build a mobile project using C++ and Svelte framework.
+250,Dashboard 250,IoT,PHP,Spring Boot,Expert,IoT|Embedded Systems|Hardware,2,Build a iot project using PHP and Spring Boot framework.
+251,Search Engine 251,AI,JavaScript,Next.js,Beginner,Python|ML|Data Analysis,1,Build a ai project using JavaScript and Next.js framework.
+252,ChatBot 252,Cybersecurity,Ruby,Vue.js,Advanced,Go|Concurrency|Scalability,2,Build a cybersecurity project using Ruby and Vue.js framework.
+253,Video Streaming 253,Cybersecurity,C#,Angular,Beginner,JavaScript|React|State Management,2,Build a cybersecurity project using C# and Angular framework.
+254,Blog Platform 254,Data Science,PHP,React,Beginner,JavaScript|React|State Management,3,Build a data science project using PHP and React framework.
+255,Music Player 255,DevOps,PHP,Flask,Intermediate,Python|Data Analysis|Visualization,2,Build a devops project using PHP and Flask framework.
+256,Log Aggregator 256,DevOps,Ruby,React,Expert,Rust|Memory Safety|Performance,1,Build a devops project using Ruby and React framework.
+257,Payment Gateway 257,Blockchain,TypeScript,FastAPI,Advanced,C++|Game Engine|Graphics,1,Build a blockchain project using TypeScript and FastAPI framework.
+258,Video Streaming 258,DevOps,Rust,React,Expert,JavaScript|Vue.js|API Integration,5,Build a devops project using Rust and React framework.
+259,Image Classifier 259,Cybersecurity,Ruby,Nuxt,Beginner,Python|NLP|Machine Learning,2,Build a cybersecurity project using Ruby and Nuxt framework.
+260,Payment Gateway 260,Blockchain,C#,Express,Intermediate,Python|NLP|Text Processing,2,Build a blockchain project using C# and Express framework.
+261,Racing Game 261,Web,Python,Svelte,Expert,Python|Data Analysis|Visualization,3,Build a web project using Python and Svelte framework.
+262,Dashboard 262,Cybersecurity,Java,React,Advanced,Python|Deep Learning|Computer Vision,5,Build a cybersecurity project using Java and React framework.
+263,Recommendation System 263,IoT,C#,React,Intermediate,Python|NLP|Text Processing,2,Build a iot project using C# and React framework.
+264,Puzzle Game 264,Machine Learning,JavaScript,Vue.js,Beginner,Go|Concurrency|Scalability,5,Build a machine learning project using JavaScript and Vue.js framework.
+265,Scheduler 265,Machine Learning,C#,Nuxt,Expert,Go|Concurrency|Scalability,2,Build a machine learning project using C# and Nuxt framework.
+266,Recommendation System 266,Mobile,Ruby,Ember,Expert,JavaScript|React|Node.js,5,Build a mobile project using Ruby and Ember framework.
+267,API Gateway 267,Web,C#,Django,Beginner,Go|Concurrency|Scalability,1,Build a web project using C# and Django framework.
+268,ChatBot 268,Blockchain,Rust,Vue.js,Advanced,C++|Game Engine|Graphics,4,Build a blockchain project using Rust and Vue.js framework.
+269,API Gateway 269,Cybersecurity,Rust,Django,Beginner,JavaScript|React|State Management,2,Build a cybersecurity project using Rust and Django framework.
+270,Analytics Tool 270,AI,C++,Spring Boot,Beginner,Rust|Memory Safety|Performance,2,Build a ai project using C++ and Spring Boot framework.
+271,3D Game 271,IoT,Ruby,Nuxt,Intermediate,DevOps|Docker|Kubernetes,1,Build a iot project using Ruby and Nuxt framework.
+272,Container Registry 272,Cybersecurity,C#,Spring Boot,Beginner,C++|Game Engine|Graphics,5,Build a cybersecurity project using C# and Spring Boot framework.
+273,Photo Editor 273,DevOps,Go,React,Intermediate,Python|Deep Learning|Computer Vision,4,Build a devops project using Go and React framework.
+274,Cloud Storage 274,Mobile,JavaScript,Nuxt,Expert,Blockchain|Smart Contracts|Crypto,3,Build a mobile project using JavaScript and Nuxt framework.
+275,Document Generator 275,Web,C++,Vue.js,Expert,DevOps|Docker|Kubernetes,1,Build a web project using C++ and Vue.js framework.
+276,Mobile App 276,Machine Learning,Python,Flask,Advanced,Python|NLP|Text Processing,5,Build a machine learning project using Python and Flask framework.
+277,Blog Platform 277,DevOps,PHP,Spring Boot,Intermediate,Python|ML|Data Analysis,3,Build a devops project using PHP and Spring Boot framework.
+278,Intrusion Detector 278,Mobile,Go,Angular,Advanced,Go|Concurrency|Scalability,4,Build a mobile project using Go and Angular framework.
+279,Container Registry 279,Machine Learning,Python,Svelte,Beginner,Python|Data Analysis|Visualization,1,Build a machine learning project using Python and Svelte framework.
+280,Strategy Game 280,Blockchain,TypeScript,Vue.js,Expert,Python|NLP|Text Processing,5,Build a blockchain project using TypeScript and Vue.js framework.
+281,Image Classifier 281,DevOps,C#,Express,Advanced,TypeScript|OOP|Design Patterns,5,Build a devops project using C# and Express framework.
+282,Document Generator 282,Game Development,PHP,Django,Beginner,Blockchain|Smart Contracts|Crypto,1,Build a game development project using PHP and Django framework.
+283,ERP Solution 283,DevOps,Java,Angular,Advanced,C++|Game Engine|Graphics,2,Build a devops project using Java and Angular framework.
+284,Scheduler 284,Game Development,C#,FastAPI,Intermediate,Python|NLP|Text Processing,1,Build a game development project using C# and FastAPI framework.
+285,Racing Game 285,AI,Python,FastAPI,Advanced,Go|Concurrency|Scalability,1,Build a ai project using Python and FastAPI framework.
+286,Log Aggregator 286,Game Development,PHP,Express,Expert,Python|NLP|Text Processing,4,Build a game development project using PHP and Express framework.
+287,AR Application 287,DevOps,Ruby,React,Expert,Python|Deep Learning|Computer Vision,2,Build a devops project using Ruby and React framework.
+288,Photo Editor 288,Blockchain,Java,Django,Expert,Java|Spring|Microservices,4,Build a blockchain project using Java and Django framework.
+289,ChatBot 289,DevOps,Ruby,Nuxt,Advanced,DevOps|Docker|Kubernetes,3,Build a devops project using Ruby and Nuxt framework.
+290,Strategy Game 290,AI,Go,Angular,Advanced,JavaScript|React|State Management,1,Build a ai project using Go and Angular framework.
+291,Task Manager 291,IoT,Ruby,React,Beginner,JavaScript|React|Node.js|Database,5,Build a iot project using Ruby and React framework.
+292,Recommendation System 292,Mobile,Go,Ember,Advanced,IoT|Embedded Systems|Hardware,3,Build a mobile project using Go and Ember framework.
+293,Email Client 293,Web,Python,Svelte,Advanced,Cybersecurity|Encryption|Penetration Testing,1,Build a web project using Python and Svelte framework.
+294,VPN Client 294,AI,C#,Spring Boot,Beginner,JavaScript|React|Node.js|Database,5,Build a ai project using C# and Spring Boot framework.
+295,Firewall 295,Blockchain,TypeScript,Vue.js,Beginner,Go|Concurrency|Scalability,5,Build a blockchain project using TypeScript and Vue.js framework.
+296,Puzzle Game 296,Web,C#,React,Intermediate,Rust|Memory Safety|Performance,3,Build a web project using C# and React framework.
+297,ChatBot 297,IoT,C#,Nuxt,Intermediate,Blockchain|Smart Contracts|Crypto,5,Build a iot project using C# and Nuxt framework.
+298,Social Network 298,Web,Python,Ember,Beginner,Python|ML|Data Analysis,3,Build a web project using Python and Ember framework.
+299,File Manager 299,Data Science,C#,Django,Intermediate,Python|Data Analysis|Visualization,2,Build a data science project using C# and Django framework.
+300,CI/CD Pipeline 300,Cybersecurity,JavaScript,Flask,Beginner,JavaScript|React|Node.js,1,Build a cybersecurity project using JavaScript and Flask framework.
+301,Network Simulator 301,Mobile,C++,Nuxt,Advanced,JavaScript|React|State Management,5,Build a mobile project using C++ and Nuxt framework.
+302,ChatBot 302,Cybersecurity,C++,Nuxt,Advanced,Python|Deep Learning|Computer Vision,2,Build a cybersecurity project using C++ and Nuxt framework.
+303,Social Network 303,Cybersecurity,Java,Spring Boot,Advanced,Python|Data Analysis|Visualization,3,Build a cybersecurity project using Java and Spring Boot framework.
+304,Music Player 304,IoT,C++,Express,Expert,Cybersecurity|Encryption|Penetration Testing,1,Build a iot project using C++ and Express framework.
+305,Intrusion Detector 305,Game Development,JavaScript,Next.js,Intermediate,Rust|Memory Safety|Performance,1,Build a game development project using JavaScript and Next.js framework.
+306,Virtual Machine 306,Machine Learning,PHP,Next.js,Intermediate,Python|ML|Data Analysis,1,Build a machine learning project using PHP and Next.js framework.
+307,Data Pipeline 307,Cybersecurity,Rust,Vue.js,Advanced,IoT|Embedded Systems|Hardware,4,Build a cybersecurity project using Rust and Vue.js framework.
+308,Blog Platform 308,Mobile,TypeScript,FastAPI,Advanced,DevOps|Docker|Kubernetes,3,Build a mobile project using TypeScript and FastAPI framework.
+309,Document Generator 309,Data Science,Python,Nuxt,Beginner,Go|Concurrency|Scalability,3,Build a data science project using Python and Nuxt framework.
+310,Virtual Machine 310,Machine Learning,Ruby,Spring Boot,Expert,TypeScript|OOP|Design Patterns,3,Build a machine learning project using Ruby and Spring Boot framework.
+311,Resume Analyzer 311,Cybersecurity,Rust,FastAPI,Beginner,DevOps|Docker|Kubernetes,1,Build a cybersecurity project using Rust and FastAPI framework.
+312,Payment Gateway 312,Mobile,Python,React,Expert,Python|NLP|Text Processing,2,Build a mobile project using Python and React framework.
+313,3D Game 313,Web,C#,Nuxt,Beginner,Python|ML|Data Analysis,5,Build a web project using C# and Nuxt framework.
+314,Backup Tool 314,Data Science,Python,React,Expert,Rust|Memory Safety|Performance,2,Build a data science project using Python and React framework.
+315,VPN Client 315,DevOps,PHP,Django,Advanced,Python|ML|Data Analysis,5,Build a devops project using PHP and Django framework.
+316,VPN Client 316,Game Development,Rust,React,Beginner,Cybersecurity|Encryption|Penetration Testing,1,Build a game development project using Rust and React framework.
+317,Payment Gateway 317,DevOps,Java,FastAPI,Intermediate,Python|NLP|Text Processing,2,Build a devops project using Java and FastAPI framework.
+318,Intrusion Detector 318,Web,Go,Vue.js,Advanced,Blockchain|Smart Contracts|Crypto,2,Build a web project using Go and Vue.js framework.
+319,Data Pipeline 319,Game Development,Go,Svelte,Advanced,Java|Spring|Microservices,5,Build a game development project using Go and Svelte framework.
+320,AR Application 320,Data Science,Python,Django,Expert,IoT|Embedded Systems|Hardware,5,Build a data science project using Python and Django framework.
+321,Strategy Game 321,Web,Go,Next.js,Expert,Java|Spring|Microservices,5,Build a web project using Go and Next.js framework.
+322,Recommendation System 322,Blockchain,C++,Svelte,Beginner,DevOps|Docker|Kubernetes,1,Build a blockchain project using C++ and Svelte framework.
+323,3D Game 323,Machine Learning,PHP,Next.js,Intermediate,Python|Deep Learning|Computer Vision,5,Build a machine learning project using PHP and Next.js framework.
+324,Recommendation System 324,Cybersecurity,C++,Svelte,Advanced,Java|Spring|Microservices,5,Build a cybersecurity project using C++ and Svelte framework.
+325,Chat Application 325,AI,Python,Flask,Expert,C++|Game Engine|Graphics,1,Build a ai project using Python and Flask framework.
+326,Traffic Monitor 326,Mobile,C#,Django,Expert,Java|Spring|Microservices,1,Build a mobile project using C# and Django framework.
+327,Traffic Monitor 327,Cybersecurity,TypeScript,Nuxt,Expert,JavaScript|React|Node.js,1,Build a cybersecurity project using TypeScript and Nuxt framework.
+328,CRM System 328,Web,TypeScript,Next.js,Advanced,Blockchain|Smart Contracts|Crypto,3,Build a web project using TypeScript and Next.js framework.
+329,Notification System 329,Mobile,JavaScript,Ember,Beginner,Python|NLP|Machine Learning,5,Build a mobile project using JavaScript and Ember framework.
+330,File Manager 330,Cybersecurity,Go,Ember,Intermediate,Go|Concurrency|Scalability,1,Build a cybersecurity project using Go and Ember framework.
+331,Container Registry 331,DevOps,Rust,Svelte,Expert,DevOps|Docker|Kubernetes,5,Build a devops project using Rust and Svelte framework.
+332,Virtual Machine 332,Cybersecurity,C++,Express,Intermediate,JavaScript|React|Node.js|Database,1,Build a cybersecurity project using C++ and Express framework.
+333,VPN Client 333,Mobile,C++,Vue.js,Intermediate,Rust|Memory Safety|Performance,5,Build a mobile project using C++ and Vue.js framework.
+334,CRM System 334,Blockchain,TypeScript,Next.js,Beginner,C++|Game Engine|Graphics,2,Build a blockchain project using TypeScript and Next.js framework.
+335,CRM System 335,IoT,Java,Angular,Beginner,C++|Game Engine|Graphics,3,Build a iot project using Java and Angular framework.
+336,Mobile App 336,Game Development,PHP,Flask,Expert,Blockchain|Smart Contracts|Crypto,3,Build a game development project using PHP and Flask framework.
+337,Cloud Storage 337,AI,Rust,Ember,Advanced,C++|Game Engine|Graphics,4,Build a ai project using Rust and Ember framework.
+338,File Manager 338,Machine Learning,Python,Angular,Intermediate,Python|NLP|Text Processing,5,Build a machine learning project using Python and Angular framework.
+339,Task Manager 339,Cybersecurity,Python,React,Expert,Python|Deep Learning|Computer Vision,5,Build a cybersecurity project using Python and React framework.
+340,Data Pipeline 340,AI,Java,Vue.js,Advanced,DevOps|Docker|Kubernetes,4,Build a ai project using Java and Vue.js framework.
+341,Strategy Game 341,AI,Java,Ember,Expert,Java|Spring|Microservices,1,Build a ai project using Java and Ember framework.
+342,Recommendation System 342,Web,TypeScript,Next.js,Expert,JavaScript|Vue.js|API Integration,4,Build a web project using TypeScript and Next.js framework.
+343,Wiki Platform 343,IoT,Ruby,FastAPI,Beginner,Python|NLP|Machine Learning,1,Build a iot project using Ruby and FastAPI framework.
+344,AR Application 344,Data Science,JavaScript,Spring Boot,Expert,Java|Spring|Microservices,3,Build a data science project using JavaScript and Spring Boot framework.
+345,Intrusion Detector 345,Machine Learning,TypeScript,Flask,Beginner,Python|NLP|Text Processing,3,Build a machine learning project using TypeScript and Flask framework.
+346,Forum App 346,Machine Learning,JavaScript,Flask,Beginner,Python|Deep Learning|Computer Vision,3,Build a machine learning project using JavaScript and Flask framework.
+347,Resume Analyzer 347,Game Development,Java,Svelte,Expert,JavaScript|React|State Management,4,Build a game development project using Java and Svelte framework.
+348,ChatBot 348,Machine Learning,C#,Express,Advanced,TypeScript|OOP|Design Patterns,2,Build a machine learning project using C# and Express framework.
+349,3D Game 349,Cybersecurity,Python,Next.js,Intermediate,JavaScript|React|Node.js,3,Build a cybersecurity project using Python and Next.js framework.
+350,Load Balancer 350,Web,Rust,Next.js,Beginner,Python|Data Analysis|Visualization,3,Build a web project using Rust and Next.js framework.
+351,Notification System 351,AI,Rust,Nuxt,Beginner,Python|Data Analysis|Visualization,4,Build a ai project using Rust and Nuxt framework.
+352,Forum App 352,AI,Rust,Express,Beginner,JavaScript|React|Node.js|Database,1,Build a ai project using Rust and Express framework.
+353,3D Game 353,Game Development,C#,React,Intermediate,Java|Spring|Microservices,1,Build a game development project using C# and React framework.
+354,Image Classifier 354,Web,C++,React,Intermediate,Rust|Memory Safety|Performance,5,Build a web project using C++ and React framework.
+355,Strategy Game 355,Data Science,Java,Next.js,Advanced,Go|Concurrency|Scalability,4,Build a data science project using Java and Next.js framework.
+356,ERP Solution 356,Web,Ruby,FastAPI,Expert,DevOps|Docker|Kubernetes,4,Build a web project using Ruby and FastAPI framework.
+357,VPN Client 357,DevOps,Go,Angular,Beginner,Python|Data Analysis|Visualization,4,Build a devops project using Go and Angular framework.
+358,File Manager 358,Blockchain,Java,Ember,Beginner,Rust|Memory Safety|Performance,1,Build a blockchain project using Java and Ember framework.
+359,Puzzle Game 359,Cybersecurity,Ruby,React,Beginner,Go|Concurrency|Scalability,5,Build a cybersecurity project using Ruby and React framework.
+360,Chat Application 360,Mobile,Ruby,Nuxt,Advanced,JavaScript|React|Node.js|Database,3,Build a mobile project using Ruby and Nuxt framework.
+361,Virtual Machine 361,Blockchain,Ruby,Express,Intermediate,TypeScript|OOP|Design Patterns,3,Build a blockchain project using Ruby and Express framework.
+362,Notification System 362,IoT,Python,Express,Beginner,JavaScript|React|Node.js|Database,2,Build a iot project using Python and Express framework.
+363,REST API 363,Data Science,C#,Nuxt,Advanced,DevOps|Docker|Kubernetes,2,Build a data science project using C# and Nuxt framework.
+364,Email Client 364,Game Development,PHP,Angular,Beginner,JavaScript|React|Node.js,4,Build a game development project using PHP and Angular framework.
+365,Video Streaming 365,Blockchain,TypeScript,React,Beginner,Python|Deep Learning|Computer Vision,1,Build a blockchain project using TypeScript and React framework.
+366,Load Balancer 366,Machine Learning,JavaScript,Flask,Intermediate,IoT|Embedded Systems|Hardware,5,Build a machine learning project using JavaScript and Flask framework.
+367,ChatBot 367,Mobile,Go,React,Beginner,JavaScript|React|Node.js|Database,3,Build a mobile project using Go and React framework.
+368,E-Commerce 368,Game Development,Go,React,Advanced,JavaScript|React|State Management,5,Build a game development project using Go and React framework.
+369,Monitoring System 369,Data Science,PHP,Ember,Intermediate,Python|NLP|Machine Learning,3,Build a data science project using PHP and Ember framework.
+370,Container Registry 370,Web,PHP,Django,Intermediate,Go|Concurrency|Scalability,1,Build a web project using PHP and Django framework.
+371,Stock Analyzer 371,IoT,TypeScript,Angular,Beginner,Blockchain|Smart Contracts|Crypto,4,Build a iot project using TypeScript and Angular framework.
+372,Log Aggregator 372,Game Development,Java,Ember,Expert,Python|Data Analysis|Visualization,3,Build a game development project using Java and Ember framework.
+373,ChatBot 373,Mobile,TypeScript,Spring Boot,Advanced,Python|Deep Learning|Computer Vision,3,Build a mobile project using TypeScript and Spring Boot framework.
+374,API Gateway 374,Game Development,Ruby,Django,Intermediate,JavaScript|React|Node.js|Database,5,Build a game development project using Ruby and Django framework.
+375,Chat Application 375,Blockchain,C++,Django,Expert,Python|ML|Data Analysis,3,Build a blockchain project using C++ and Django framework.
+376,Network Simulator 376,Blockchain,JavaScript,Spring Boot,Expert,Go|Concurrency|Scalability,4,Build a blockchain project using JavaScript and Spring Boot framework.
+377,Data Pipeline 377,Machine Learning,TypeScript,Ember,Intermediate,JavaScript|React|Node.js,2,Build a machine learning project using TypeScript and Ember framework.
+378,Container Registry 378,Cybersecurity,C++,Svelte,Expert,Go|Concurrency|Scalability,2,Build a cybersecurity project using C++ and Svelte framework.
+379,Notification System 379,Data Science,TypeScript,React,Advanced,Java|Spring|Microservices,4,Build a data science project using TypeScript and React framework.
+380,Racing Game 380,DevOps,JavaScript,Ember,Intermediate,DevOps|Docker|Kubernetes,2,Build a devops project using JavaScript and Ember framework.
+381,Stock Analyzer 381,DevOps,JavaScript,Nuxt,Beginner,JavaScript|React|State Management,1,Build a devops project using JavaScript and Nuxt framework.
+382,Monitoring System 382,DevOps,Ruby,Vue.js,Intermediate,Cybersecurity|Encryption|Penetration Testing,5,Build a devops project using Ruby and Vue.js framework.
+383,Password Manager 383,Mobile,Go,Vue.js,Expert,Cybersecurity|Encryption|Penetration Testing,2,Build a mobile project using Go and Vue.js framework.
+384,ERP Solution 384,Blockchain,Python,Spring Boot,Expert,Java|Spring|Microservices,4,Build a blockchain project using Python and Spring Boot framework.
+385,Data Pipeline 385,Mobile,Python,Nuxt,Expert,Java|Spring|Microservices,3,Build a mobile project using Python and Nuxt framework.
+386,ChatBot 386,AI,Python,Vue.js,Intermediate,JavaScript|React|State Management,5,Build a ai project using Python and Vue.js framework.
+387,Chat Application 387,Blockchain,Go,Angular,Beginner,JavaScript|React|Node.js,4,Build a blockchain project using Go and Angular framework.
+388,Email Client 388,DevOps,C#,Ember,Intermediate,Blockchain|Smart Contracts|Crypto,5,Build a devops project using C# and Ember framework.
+389,Wiki Platform 389,DevOps,PHP,Angular,Advanced,Python|NLP|Text Processing,4,Build a devops project using PHP and Angular framework.
+390,File Manager 390,Machine Learning,C#,FastAPI,Intermediate,TypeScript|OOP|Design Patterns,1,Build a machine learning project using C# and FastAPI framework.
+391,Video Streaming 391,Data Science,Python,Express,Expert,JavaScript|React|State Management,5,Build a data science project using Python and Express framework.
+392,Notification System 392,AI,Ruby,Flask,Beginner,JavaScript|React|Node.js|Database,2,Build a ai project using Ruby and Flask framework.
+393,Image Classifier 393,DevOps,C#,Nuxt,Expert,DevOps|Docker|Kubernetes,4,Build a devops project using C# and Nuxt framework.
+394,3D Game 394,Machine Learning,JavaScript,Flask,Beginner,Python|Deep Learning|Computer Vision,5,Build a machine learning project using JavaScript and Flask framework.
+395,CRM System 395,Game Development,Python,Angular,Advanced,JavaScript|Vue.js|API Integration,2,Build a game development project using Python and Angular framework.
+396,Puzzle Game 396,DevOps,Python,Vue.js,Intermediate,Python|Data Analysis|Visualization,4,Build a devops project using Python and Vue.js framework.
+397,Password Manager 397,Web,JavaScript,Flask,Intermediate,C++|Game Engine|Graphics,1,Build a web project using JavaScript and Flask framework.
+398,CRM System 398,Web,C#,Next.js,Intermediate,Python|NLP|Text Processing,1,Build a web project using C# and Next.js framework.
+399,Container Registry 399,Game Development,Rust,Spring Boot,Beginner,Python|Deep Learning|Computer Vision,4,Build a game development project using Rust and Spring Boot framework.
+400,Virtual Machine 400,IoT,PHP,Next.js,Expert,JavaScript|Vue.js|API Integration,5,Build a iot project using PHP and Next.js framework.
+401,Firewall 401,Data Science,TypeScript,Spring Boot,Expert,DevOps|Docker|Kubernetes,3,Build a data science project using TypeScript and Spring Boot framework.
+402,API Gateway 402,Data Science,TypeScript,Express,Advanced,Java|Spring|Microservices,2,Build a data science project using TypeScript and Express framework.
+403,Network Simulator 403,Cybersecurity,Ruby,Express,Expert,JavaScript|React|Node.js|Database,1,Build a cybersecurity project using Ruby and Express framework.
+404,CRM System 404,Mobile,Python,Express,Expert,TypeScript|OOP|Design Patterns,4,Build a mobile project using Python and Express framework.
+405,Weather Dashboard 405,DevOps,C#,Django,Beginner,JavaScript|Vue.js|API Integration,1,Build a devops project using C# and Django framework.
+406,AR Application 406,IoT,TypeScript,Django,Beginner,DevOps|Docker|Kubernetes,1,Build a iot project using TypeScript and Django framework.
+407,Load Balancer 407,Machine Learning,TypeScript,Next.js,Intermediate,Cybersecurity|Encryption|Penetration Testing,3,Build a machine learning project using TypeScript and Next.js framework.
+408,ChatBot 408,Blockchain,Java,Spring Boot,Intermediate,Python|Deep Learning|Computer Vision,4,Build a blockchain project using Java and Spring Boot framework.
+409,Chat Application 409,Cybersecurity,Ruby,Svelte,Beginner,DevOps|Docker|Kubernetes,5,Build a cybersecurity project using Ruby and Svelte framework.
+410,Racing Game 410,Game Development,JavaScript,Flask,Beginner,DevOps|Docker|Kubernetes,3,Build a game development project using JavaScript and Flask framework.
+411,API Gateway 411,Cybersecurity,Java,Nuxt,Expert,Python|NLP|Text Processing,1,Build a cybersecurity project using Java and Nuxt framework.
+412,Firewall 412,DevOps,Rust,Angular,Intermediate,C++|Game Engine|Graphics,5,Build a devops project using Rust and Angular framework.
+413,API Gateway 413,Web,Python,React,Beginner,IoT|Embedded Systems|Hardware,4,Build a web project using Python and React framework.
+414,Cloud Storage 414,Mobile,Go,FastAPI,Expert,C++|Game Engine|Graphics,2,Build a mobile project using Go and FastAPI framework.
+415,REST API 415,AI,JavaScript,Django,Advanced,Python|NLP|Text Processing,2,Build a ai project using JavaScript and Django framework.
+416,Traffic Monitor 416,Web,Ruby,React,Expert,DevOps|Docker|Kubernetes,3,Build a web project using Ruby and React framework.
+417,ERP Solution 417,IoT,C++,Vue.js,Intermediate,Python|NLP|Text Processing,1,Build a iot project using C++ and Vue.js framework.
+418,Photo Editor 418,Web,JavaScript,Spring Boot,Expert,C++|Game Engine|Graphics,5,Build a web project using JavaScript and Spring Boot framework.
+419,VPN Client 419,Game Development,PHP,Ember,Intermediate,Cybersecurity|Encryption|Penetration Testing,3,Build a game development project using PHP and Ember framework.
+420,Virtual Machine 420,Mobile,Rust,Vue.js,Advanced,Python|NLP|Text Processing,1,Build a mobile project using Rust and Vue.js framework.
+421,Intrusion Detector 421,IoT,Ruby,Next.js,Intermediate,JavaScript|React|State Management,3,Build a iot project using Ruby and Next.js framework.
+422,Search Engine 422,Data Science,Go,Next.js,Advanced,Python|NLP|Machine Learning,3,Build a data science project using Go and Next.js framework.
+423,Backup Tool 423,Cybersecurity,TypeScript,Flask,Beginner,Cybersecurity|Encryption|Penetration Testing,5,Build a cybersecurity project using TypeScript and Flask framework.
+424,Notification System 424,Game Development,Go,Angular,Intermediate,Python|Data Analysis|Visualization,5,Build a game development project using Go and Angular framework.
+425,Photo Editor 425,DevOps,C#,Spring Boot,Advanced,Python|NLP|Text Processing,3,Build a devops project using C# and Spring Boot framework.
+426,E-Commerce 426,AI,C++,React,Advanced,Python|NLP|Text Processing,4,Build a ai project using C++ and React framework.
+427,Search Engine 427,Web,Go,Ember,Intermediate,Python|Deep Learning|Computer Vision,4,Build a web project using Go and Ember framework.
+428,Music Player 428,DevOps,C#,Next.js,Advanced,Java|Spring|Microservices,4,Build a devops project using C# and Next.js framework.
+429,Monitoring System 429,Machine Learning,Python,Svelte,Beginner,Blockchain|Smart Contracts|Crypto,2,Build a machine learning project using Python and Svelte framework.
+430,Data Pipeline 430,AI,Java,Express,Beginner,JavaScript|React|Node.js,3,Build a ai project using Java and Express framework.
+431,File Manager 431,Machine Learning,Rust,Angular,Expert,JavaScript|React|State Management,2,Build a machine learning project using Rust and Angular framework.
+432,Traffic Monitor 432,Game Development,TypeScript,Django,Expert,TypeScript|OOP|Design Patterns,3,Build a game development project using TypeScript and Django framework.
+433,Notification System 433,DevOps,Go,Express,Beginner,Python|Deep Learning|Computer Vision,4,Build a devops project using Go and Express framework.
+434,Chat Application 434,Blockchain,Python,FastAPI,Beginner,IoT|Embedded Systems|Hardware,3,Build a blockchain project using Python and FastAPI framework.
+435,Intrusion Detector 435,Mobile,Java,Spring Boot,Expert,Python|Deep Learning|Computer Vision,4,Build a mobile project using Java and Spring Boot framework.
+436,Dashboard 436,DevOps,PHP,Express,Expert,Blockchain|Smart Contracts|Crypto,2,Build a devops project using PHP and Express framework.
+437,Strategy Game 437,Game Development,Java,Ember,Intermediate,TypeScript|OOP|Design Patterns,3,Build a game development project using Java and Ember framework.
+438,Chat Application 438,AI,JavaScript,Spring Boot,Expert,Java|Spring|Microservices,4,Build a ai project using JavaScript and Spring Boot framework.
+439,ERP Solution 439,Machine Learning,Java,Flask,Beginner,Cybersecurity|Encryption|Penetration Testing,4,Build a machine learning project using Java and Flask framework.
+440,AR Application 440,Game Development,Ruby,Svelte,Advanced,Rust|Memory Safety|Performance,4,Build a game development project using Ruby and Svelte framework.
+441,3D Game 441,Blockchain,Go,Ember,Intermediate,Python|Deep Learning|Computer Vision,2,Build a blockchain project using Go and Ember framework.
+442,Strategy Game 442,IoT,Go,Flask,Advanced,Python|Deep Learning|Computer Vision,5,Build a iot project using Go and Flask framework.
+443,Forum App 443,Blockchain,JavaScript,Angular,Intermediate,TypeScript|OOP|Design Patterns,2,Build a blockchain project using JavaScript and Angular framework.
+444,Notification System 444,Mobile,Ruby,FastAPI,Advanced,JavaScript|React|State Management,1,Build a mobile project using Ruby and FastAPI framework.
+445,Intrusion Detector 445,Machine Learning,Go,Flask,Advanced,Go|Concurrency|Scalability,3,Build a machine learning project using Go and Flask framework.
+446,Forum App 446,Blockchain,TypeScript,Flask,Expert,Blockchain|Smart Contracts|Crypto,4,Build a blockchain project using TypeScript and Flask framework.
+447,Video Streaming 447,Web,Ruby,Ember,Expert,Rust|Memory Safety|Performance,1,Build a web project using Ruby and Ember framework.
+448,Chat Application 448,AI,C#,Next.js,Expert,TypeScript|OOP|Design Patterns,4,Build a ai project using C# and Next.js framework.
+449,Traffic Monitor 449,Data Science,Python,Spring Boot,Advanced,Blockchain|Smart Contracts|Crypto,1,Build a data science project using Python and Spring Boot framework.
+450,Password Manager 450,Cybersecurity,C#,Next.js,Beginner,Python|NLP|Machine Learning,5,Build a cybersecurity project using C# and Next.js framework.
+451,Stock Analyzer 451,Web,Java,Spring Boot,Advanced,Python|ML|Data Analysis,1,Build a web project using Java and Spring Boot framework.
+452,Intrusion Detector 452,Web,Java,Next.js,Expert,JavaScript|React|Node.js|Database,1,Build a web project using Java and Next.js framework.
+453,Traffic Monitor 453,AI,Ruby,Vue.js,Intermediate,Python|Data Analysis|Visualization,2,Build a ai project using Ruby and Vue.js framework.
+454,VPN Client 454,DevOps,Go,React,Beginner,Python|Data Analysis|Visualization,2,Build a devops project using Go and React framework.
+455,Document Generator 455,Mobile,PHP,Vue.js,Expert,IoT|Embedded Systems|Hardware,4,Build a mobile project using PHP and Vue.js framework.
+456,Monitoring System 456,Game Development,JavaScript,Express,Intermediate,Python|Deep Learning|Computer Vision,3,Build a game development project using JavaScript and Express framework.
+457,CRM System 457,Cybersecurity,C#,Next.js,Expert,JavaScript|Vue.js|API Integration,4,Build a cybersecurity project using C# and Next.js framework.
+458,Forum App 458,Game Development,C#,Spring Boot,Intermediate,Cybersecurity|Encryption|Penetration Testing,4,Build a game development project using C# and Spring Boot framework.
+459,Photo Editor 459,Blockchain,Java,React,Beginner,JavaScript|Vue.js|API Integration,3,Build a blockchain project using Java and React framework.
+460,API Gateway 460,IoT,Rust,React,Intermediate,Java|Spring|Microservices,5,Build a iot project using Rust and React framework.
+461,Forum App 461,Web,Python,React,Expert,Cybersecurity|Encryption|Penetration Testing,3,Build a web project using Python and React framework.
+462,Puzzle Game 462,DevOps,Python,Vue.js,Beginner,JavaScript|Vue.js|API Integration,1,Build a devops project using Python and Vue.js framework.
+463,Stock Analyzer 463,Web,JavaScript,Spring Boot,Beginner,Java|Spring|Microservices,1,Build a web project using JavaScript and Spring Boot framework.
+464,Password Manager 464,Data Science,C++,Spring Boot,Beginner,Python|NLP|Text Processing,1,Build a data science project using C++ and Spring Boot framework.
+465,Weather Dashboard 465,Web,Java,Angular,Expert,TypeScript|OOP|Design Patterns,2,Build a web project using Java and Angular framework.
+466,Monitoring System 466,Mobile,C++,Spring Boot,Expert,Cybersecurity|Encryption|Penetration Testing,5,Build a mobile project using C++ and Spring Boot framework.
+467,API Gateway 467,Game Development,C#,Flask,Intermediate,IoT|Embedded Systems|Hardware,1,Build a game development project using C# and Flask framework.
+468,Task Manager 468,AI,Go,FastAPI,Expert,JavaScript|Vue.js|API Integration,4,Build a ai project using Go and FastAPI framework.
+469,Virtual Machine 469,AI,Rust,Spring Boot,Intermediate,Python|ML|Data Analysis,1,Build a ai project using Rust and Spring Boot framework.
+470,Puzzle Game 470,Game Development,Java,Django,Beginner,Python|NLP|Text Processing,4,Build a game development project using Java and Django framework.
+471,ChatBot 471,Web,Python,Django,Intermediate,Python|ML|Data Analysis,2,Build a web project using Python and Django framework.
+472,Email Client 472,IoT,Python,Svelte,Beginner,JavaScript|React|Node.js,4,Build a iot project using Python and Svelte framework.
+473,Puzzle Game 473,DevOps,C++,Ember,Advanced,Python|NLP|Machine Learning,4,Build a devops project using C++ and Ember framework.
+474,Backup Tool 474,Machine Learning,C#,FastAPI,Advanced,C++|Game Engine|Graphics,4,Build a machine learning project using C# and FastAPI framework.
+475,Image Classifier 475,AI,Java,Svelte,Expert,TypeScript|OOP|Design Patterns,1,Build a ai project using Java and Svelte framework.
+476,Mobile App 476,Web,Go,Angular,Beginner,JavaScript|React|Node.js|Database,1,Build a web project using Go and Angular framework.
+477,Cloud Storage 477,Machine Learning,TypeScript,React,Beginner,Java|Spring|Microservices,3,Build a machine learning project using TypeScript and React framework.
+478,Load Balancer 478,Blockchain,Ruby,FastAPI,Advanced,JavaScript|React|Node.js|Database,1,Build a blockchain project using Ruby and FastAPI framework.
+479,Log Aggregator 479,IoT,Python,Next.js,Advanced,Cybersecurity|Encryption|Penetration Testing,2,Build a iot project using Python and Next.js framework.
+480,Load Balancer 480,IoT,Go,Ember,Expert,JavaScript|React|Node.js|Database,2,Build a iot project using Go and Ember framework.
+481,Wiki Platform 481,DevOps,Go,Django,Expert,Java|Spring|Microservices,5,Build a devops project using Go and Django framework.
+482,VPN Client 482,Game Development,JavaScript,Svelte,Expert,Java|Spring|Microservices,2,Build a game development project using JavaScript and Svelte framework.
+483,Puzzle Game 483,Mobile,PHP,Angular,Expert,Blockchain|Smart Contracts|Crypto,1,Build a mobile project using PHP and Angular framework.
+484,Dashboard 484,IoT,JavaScript,Spring Boot,Expert,C++|Game Engine|Graphics,2,Build a iot project using JavaScript and Spring Boot framework.
+485,VPN Client 485,Data Science,Python,Flask,Beginner,C++|Game Engine|Graphics,2,Build a data science project using Python and Flask framework.
+486,Recommendation System 486,Game Development,PHP,React,Beginner,Python|NLP|Machine Learning,4,Build a game development project using PHP and React framework.
+487,Data Pipeline 487,Web,PHP,Ember,Advanced,JavaScript|Vue.js|API Integration,3,Build a web project using PHP and Ember framework.
+488,Recommendation System 488,Data Science,PHP,Svelte,Advanced,IoT|Embedded Systems|Hardware,2,Build a data science project using PHP and Svelte framework.
+489,Photo Editor 489,Data Science,JavaScript,Svelte,Beginner,DevOps|Docker|Kubernetes,5,Build a data science project using JavaScript and Svelte framework.
+490,CI/CD Pipeline 490,DevOps,Python,Angular,Expert,JavaScript|React|Node.js,5,Build a devops project using Python and Angular framework.
+491,Document Generator 491,DevOps,Go,Svelte,Advanced,Cybersecurity|Encryption|Penetration Testing,5,Build a devops project using Go and Svelte framework.
+492,Payment Gateway 492,Game Development,Go,FastAPI,Expert,JavaScript|Vue.js|API Integration,4,Build a game development project using Go and FastAPI framework.
+493,Search Engine 493,Game Development,C#,Django,Advanced,Blockchain|Smart Contracts|Crypto,2,Build a game development project using C# and Django framework.
+494,Forum App 494,Web,C++,Svelte,Expert,JavaScript|React|Node.js|Database,3,Build a web project using C++ and Svelte framework.
+495,Mobile App 495,Blockchain,Python,Spring Boot,Advanced,Blockchain|Smart Contracts|Crypto,1,Build a blockchain project using Python and Spring Boot framework.
+496,Password Manager 496,IoT,PHP,Ember,Advanced,IoT|Embedded Systems|Hardware,3,Build a iot project using PHP and Ember framework.
+497,3D Game 497,AI,Rust,Ember,Expert,Cybersecurity|Encryption|Penetration Testing,4,Build a ai project using Rust and Ember framework.
+498,Image Classifier 498,Mobile,Java,Flask,Beginner,TypeScript|OOP|Design Patterns,1,Build a mobile project using Java and Flask framework.
+499,File Manager 499,Data Science,Rust,Express,Advanced,IoT|Embedded Systems|Hardware,4,Build a data science project using Rust and Express framework.
+500,Password Manager 500,IoT,JavaScript,Express,Beginner,Go|Concurrency|Scalability,2,Build a iot project using JavaScript and Express framework.
+501,Puzzle Game 501,Mobile,Ruby,Next.js,Beginner,Cybersecurity|Encryption|Penetration Testing,2,Build a mobile project using Ruby and Next.js framework.
+502,File Manager 502,Web,C++,Django,Beginner,Python|NLP|Text Processing,4,Build a web project using C++ and Django framework.
+503,Scheduler 503,AI,Rust,Ember,Intermediate,Go|Concurrency|Scalability,4,Build a ai project using Rust and Ember framework.
+504,Wiki Platform 504,Data Science,C#,Next.js,Intermediate,Rust|Memory Safety|Performance,3,Build a data science project using C# and Next.js framework.
+505,ERP Solution 505,Web,PHP,Vue.js,Expert,Python|Deep Learning|Computer Vision,2,Build a web project using PHP and Vue.js framework.
+506,Resume Analyzer 506,Machine Learning,Go,FastAPI,Advanced,JavaScript|React|Node.js,1,Build a machine learning project using Go and FastAPI framework.
+507,Racing Game 507,Game Development,Go,FastAPI,Intermediate,Blockchain|Smart Contracts|Crypto,2,Build a game development project using Go and FastAPI framework.
+508,Container Registry 508,Machine Learning,Java,Nuxt,Beginner,Blockchain|Smart Contracts|Crypto,2,Build a machine learning project using Java and Nuxt framework.
+509,Load Balancer 509,Machine Learning,C++,Spring Boot,Beginner,Python|NLP|Machine Learning,3,Build a machine learning project using C++ and Spring Boot framework.
+510,Email Client 510,AI,Go,Nuxt,Advanced,JavaScript|React|Node.js|Database,4,Build a ai project using Go and Nuxt framework.
+511,Video Streaming 511,Web,C++,Ember,Expert,Python|ML|Data Analysis,4,Build a web project using C++ and Ember framework.
+512,Wiki Platform 512,DevOps,C#,Vue.js,Beginner,JavaScript|React|Node.js|Database,5,Build a devops project using C# and Vue.js framework.
+513,Load Balancer 513,DevOps,TypeScript,Next.js,Intermediate,DevOps|Docker|Kubernetes,2,Build a devops project using TypeScript and Next.js framework.
+514,Video Streaming 514,Cybersecurity,Rust,Ember,Beginner,Cybersecurity|Encryption|Penetration Testing,4,Build a cybersecurity project using Rust and Ember framework.
+515,VPN Client 515,Mobile,Python,Nuxt,Intermediate,Python|Data Analysis|Visualization,5,Build a mobile project using Python and Nuxt framework.
+516,Social Network 516,Web,C#,React,Advanced,Cybersecurity|Encryption|Penetration Testing,4,Build a web project using C# and React framework.
+517,Password Manager 517,IoT,Ruby,Svelte,Intermediate,Python|NLP|Machine Learning,2,Build a iot project using Ruby and Svelte framework.
+518,Video Streaming 518,Machine Learning,TypeScript,React,Intermediate,Python|ML|Data Analysis,1,Build a machine learning project using TypeScript and React framework.
+519,Blog Platform 519,AI,Go,Flask,Advanced,DevOps|Docker|Kubernetes,2,Build a ai project using Go and Flask framework.
+520,Blog Platform 520,Blockchain,C#,Angular,Expert,Python|NLP|Text Processing,4,Build a blockchain project using C# and Angular framework.
+521,Monitoring System 521,Machine Learning,PHP,Flask,Beginner,JavaScript|React|Node.js|Database,2,Build a machine learning project using PHP and Flask framework.
+522,Stock Analyzer 522,Machine Learning,Java,Svelte,Expert,JavaScript|React|Node.js,1,Build a machine learning project using Java and Svelte framework.
+523,Blog Platform 523,Cybersecurity,JavaScript,Nuxt,Expert,C++|Game Engine|Graphics,5,Build a cybersecurity project using JavaScript and Nuxt framework.
+524,Stock Analyzer 524,Web,Java,Svelte,Expert,DevOps|Docker|Kubernetes,4,Build a web project using Java and Svelte framework.
+525,Virtual Machine 525,Cybersecurity,Ruby,Vue.js,Expert,Python|Data Analysis|Visualization,2,Build a cybersecurity project using Ruby and Vue.js framework.
+526,Traffic Monitor 526,Web,Java,Next.js,Expert,Go|Concurrency|Scalability,1,Build a web project using Java and Next.js framework.
+527,Task Manager 527,Machine Learning,Go,Express,Advanced,Rust|Memory Safety|Performance,5,Build a machine learning project using Go and Express framework.
+528,3D Game 528,Web,Ruby,FastAPI,Advanced,Rust|Memory Safety|Performance,2,Build a web project using Ruby and FastAPI framework.
+529,Email Client 529,AI,Rust,Vue.js,Advanced,Java|Spring|Microservices,5,Build a ai project using Rust and Vue.js framework.
+530,REST API 530,Data Science,PHP,Vue.js,Intermediate,JavaScript|Vue.js|API Integration,2,Build a data science project using PHP and Vue.js framework.
+531,Resume Analyzer 531,Mobile,C++,Express,Beginner,TypeScript|OOP|Design Patterns,5,Build a mobile project using C++ and Express framework.
+532,Traffic Monitor 532,Blockchain,TypeScript,Angular,Intermediate,C++|Game Engine|Graphics,4,Build a blockchain project using TypeScript and Angular framework.
+533,Social Network 533,Data Science,JavaScript,Spring Boot,Intermediate,JavaScript|React|State Management,2,Build a data science project using JavaScript and Spring Boot framework.
+534,Task Manager 534,Game Development,Java,Express,Intermediate,Python|NLP|Machine Learning,3,Build a game development project using Java and Express framework.
+535,Email Client 535,IoT,JavaScript,Spring Boot,Intermediate,Python|ML|Data Analysis,5,Build a iot project using JavaScript and Spring Boot framework.
+536,E-Commerce 536,Web,Rust,Spring Boot,Intermediate,Python|ML|Data Analysis,4,Build a web project using Rust and Spring Boot framework.
+537,Video Streaming 537,Game Development,Go,Nuxt,Beginner,IoT|Embedded Systems|Hardware,5,Build a game development project using Go and Nuxt framework.
+538,Backup Tool 538,AI,JavaScript,Nuxt,Expert,TypeScript|OOP|Design Patterns,3,Build a ai project using JavaScript and Nuxt framework.
+539,Recommendation System 539,Machine Learning,Python,Ember,Intermediate,C++|Game Engine|Graphics,5,Build a machine learning project using Python and Ember framework.
+540,Stock Analyzer 540,DevOps,JavaScript,Next.js,Beginner,Python|NLP|Machine Learning,1,Build a devops project using JavaScript and Next.js framework.
+541,Chat Application 541,Data Science,TypeScript,React,Beginner,Python|Data Analysis|Visualization,2,Build a data science project using TypeScript and React framework.
+542,ERP Solution 542,Cybersecurity,Go,Next.js,Beginner,Python|NLP|Text Processing,1,Build a cybersecurity project using Go and Next.js framework.
+543,Notification System 543,Data Science,JavaScript,Next.js,Intermediate,DevOps|Docker|Kubernetes,5,Build a data science project using JavaScript and Next.js framework.
+544,ChatBot 544,Web,Ruby,Nuxt,Expert,Rust|Memory Safety|Performance,3,Build a web project using Ruby and Nuxt framework.
+545,Firewall 545,Blockchain,C#,Spring Boot,Beginner,JavaScript|React|Node.js,1,Build a blockchain project using C# and Spring Boot framework.
+546,Resume Analyzer 546,Data Science,TypeScript,Ember,Expert,DevOps|Docker|Kubernetes,1,Build a data science project using TypeScript and Ember framework.
+547,Image Classifier 547,Mobile,C++,Django,Beginner,Blockchain|Smart Contracts|Crypto,3,Build a mobile project using C++ and Django framework.
+548,Task Manager 548,IoT,Go,Express,Intermediate,TypeScript|OOP|Design Patterns,1,Build a iot project using Go and Express framework.
+549,Backup Tool 549,AI,C++,Flask,Expert,Python|Data Analysis|Visualization,5,Build a ai project using C++ and Flask framework.
+550,Monitoring System 550,Data Science,TypeScript,Next.js,Expert,Python|ML|Data Analysis,1,Build a data science project using TypeScript and Next.js framework.
+551,Search Engine 551,Game Development,Python,Flask,Intermediate,C++|Game Engine|Graphics,4,Build a game development project using Python and Flask framework.
+552,Video Streaming 552,IoT,Rust,Angular,Advanced,Python|NLP|Machine Learning,3,Build a iot project using Rust and Angular framework.
+553,Weather Dashboard 553,IoT,Ruby,Express,Expert,Python|NLP|Machine Learning,4,Build a iot project using Ruby and Express framework.
+554,Image Classifier 554,Mobile,C++,React,Advanced,Python|NLP|Machine Learning,1,Build a mobile project using C++ and React framework.
+555,3D Game 555,Cybersecurity,C++,Spring Boot,Expert,Blockchain|Smart Contracts|Crypto,5,Build a cybersecurity project using C++ and Spring Boot framework.
+556,Backup Tool 556,Mobile,Go,React,Advanced,DevOps|Docker|Kubernetes,3,Build a mobile project using Go and React framework.
+557,Recommendation System 557,DevOps,C#,React,Intermediate,JavaScript|React|Node.js,2,Build a devops project using C# and React framework.
+558,REST API 558,Data Science,C++,FastAPI,Advanced,JavaScript|React|Node.js|Database,2,Build a data science project using C++ and FastAPI framework.
+559,Data Pipeline 559,IoT,PHP,Express,Expert,JavaScript|Vue.js|API Integration,1,Build a iot project using PHP and Express framework.
+560,REST API 560,Mobile,JavaScript,Flask,Expert,Blockchain|Smart Contracts|Crypto,3,Build a mobile project using JavaScript and Flask framework.
+561,API Gateway 561,AI,Go,Flask,Beginner,Python|Data Analysis|Visualization,4,Build a ai project using Go and Flask framework.
+562,Document Generator 562,Web,C++,Next.js,Intermediate,Python|NLP|Machine Learning,5,Build a web project using C++ and Next.js framework.
+563,E-Commerce 563,Cybersecurity,C++,Express,Advanced,Python|ML|Data Analysis,2,Build a cybersecurity project using C++ and Express framework.
+564,Cloud Storage 564,AI,PHP,Nuxt,Expert,JavaScript|React|State Management,5,Build a ai project using PHP and Nuxt framework.
+565,Virtual Machine 565,Data Science,JavaScript,Svelte,Beginner,JavaScript|React|State Management,2,Build a data science project using JavaScript and Svelte framework.
+566,CI/CD Pipeline 566,Web,TypeScript,Nuxt,Expert,JavaScript|React|State Management,4,Build a web project using TypeScript and Nuxt framework.
+567,3D Game 567,DevOps,TypeScript,Next.js,Beginner,C++|Game Engine|Graphics,5,Build a devops project using TypeScript and Next.js framework.
+568,Music Player 568,Web,TypeScript,Express,Expert,C++|Game Engine|Graphics,1,Build a web project using TypeScript and Express framework.
+569,File Manager 569,Mobile,Ruby,Express,Advanced,Cybersecurity|Encryption|Penetration Testing,4,Build a mobile project using Ruby and Express framework.
+570,Mobile App 570,Blockchain,C++,Next.js,Intermediate,DevOps|Docker|Kubernetes,5,Build a blockchain project using C++ and Next.js framework.
+571,Strategy Game 571,IoT,C++,FastAPI,Intermediate,Rust|Memory Safety|Performance,5,Build a iot project using C++ and FastAPI framework.
+572,Monitoring System 572,Cybersecurity,C#,Nuxt,Beginner,Blockchain|Smart Contracts|Crypto,2,Build a cybersecurity project using C# and Nuxt framework.
+573,Social Network 573,Blockchain,JavaScript,Vue.js,Advanced,C++|Game Engine|Graphics,2,Build a blockchain project using JavaScript and Vue.js framework.
+574,Traffic Monitor 574,Blockchain,JavaScript,Vue.js,Intermediate,Cybersecurity|Encryption|Penetration Testing,3,Build a blockchain project using JavaScript and Vue.js framework.
+575,Log Aggregator 575,IoT,Rust,Svelte,Beginner,JavaScript|React|State Management,5,Build a iot project using Rust and Svelte framework.
+576,Data Pipeline 576,Web,Python,FastAPI,Beginner,C++|Game Engine|Graphics,5,Build a web project using Python and FastAPI framework.
+577,Firewall 577,Machine Learning,Rust,Angular,Expert,DevOps|Docker|Kubernetes,1,Build a machine learning project using Rust and Angular framework.
+578,Monitoring System 578,DevOps,C++,FastAPI,Beginner,Python|Deep Learning|Computer Vision,5,Build a devops project using C++ and FastAPI framework.
+579,Blog Platform 579,DevOps,JavaScript,React,Intermediate,JavaScript|React|State Management,2,Build a devops project using JavaScript and React framework.
+580,Scheduler 580,Web,PHP,Next.js,Advanced,Python|NLP|Machine Learning,3,Build a web project using PHP and Next.js framework.
+581,API Gateway 581,Data Science,C++,Next.js,Beginner,Go|Concurrency|Scalability,2,Build a data science project using C++ and Next.js framework.
+582,Scheduler 582,Blockchain,TypeScript,Angular,Beginner,Rust|Memory Safety|Performance,1,Build a blockchain project using TypeScript and Angular framework.
+583,Scheduler 583,IoT,PHP,Next.js,Beginner,TypeScript|OOP|Design Patterns,1,Build a iot project using PHP and Next.js framework.
+584,AR Application 584,AI,PHP,Nuxt,Intermediate,DevOps|Docker|Kubernetes,1,Build a ai project using PHP and Nuxt framework.
+585,Puzzle Game 585,DevOps,Python,Nuxt,Beginner,TypeScript|OOP|Design Patterns,2,Build a devops project using Python and Nuxt framework.
+586,Firewall 586,Data Science,Java,Ember,Beginner,Python|Deep Learning|Computer Vision,5,Build a data science project using Java and Ember framework.
+587,Intrusion Detector 587,Game Development,C#,Next.js,Intermediate,Python|NLP|Machine Learning,2,Build a game development project using C# and Next.js framework.
+588,API Gateway 588,IoT,Ruby,React,Beginner,Python|ML|Data Analysis,1,Build a iot project using Ruby and React framework.
+589,ChatBot 589,AI,TypeScript,Express,Intermediate,Python|Deep Learning|Computer Vision,3,Build a ai project using TypeScript and Express framework.
+590,ERP Solution 590,Cybersecurity,Go,React,Expert,Python|Data Analysis|Visualization,5,Build a cybersecurity project using Go and React framework.
+591,Container Registry 591,AI,JavaScript,Express,Expert,DevOps|Docker|Kubernetes,3,Build a ai project using JavaScript and Express framework.
+592,Chat Application 592,Web,Python,Spring Boot,Expert,Python|NLP|Machine Learning,3,Build a web project using Python and Spring Boot framework.
+593,Video Streaming 593,IoT,C++,Flask,Beginner,Python|NLP|Text Processing,5,Build a iot project using C++ and Flask framework.
+594,Payment Gateway 594,Game Development,TypeScript,Next.js,Advanced,Rust|Memory Safety|Performance,1,Build a game development project using TypeScript and Next.js framework.
+595,Monitoring System 595,DevOps,JavaScript,Next.js,Expert,DevOps|Docker|Kubernetes,4,Build a devops project using JavaScript and Next.js framework.
+596,ERP Solution 596,AI,C#,Nuxt,Beginner,IoT|Embedded Systems|Hardware,5,Build a ai project using C# and Nuxt framework.
+597,CI/CD Pipeline 597,Game Development,C++,Flask,Advanced,Java|Spring|Microservices,5,Build a game development project using C++ and Flask framework.
+598,ERP Solution 598,Mobile,Java,Flask,Advanced,Python|NLP|Text Processing,3,Build a mobile project using Java and Flask framework.
+599,Weather Dashboard 599,Machine Learning,Ruby,Flask,Intermediate,Rust|Memory Safety|Performance,5,Build a machine learning project using Ruby and Flask framework.
+600,Resume Analyzer 600,Machine Learning,Rust,Angular,Beginner,Python|ML|Data Analysis,4,Build a machine learning project using Rust and Angular framework.
+601,VPN Client 601,Machine Learning,JavaScript,Vue.js,Intermediate,Go|Concurrency|Scalability,3,Build a machine learning project using JavaScript and Vue.js framework.
+602,Mobile App 602,IoT,Java,Svelte,Intermediate,Python|ML|Data Analysis,1,Build a iot project using Java and Svelte framework.
+603,Recommendation System 603,AI,C++,Vue.js,Intermediate,Python|Deep Learning|Computer Vision,4,Build a ai project using C++ and Vue.js framework.
+604,Email Client 604,IoT,C#,Ember,Expert,Java|Spring|Microservices,1,Build a iot project using C# and Ember framework.
+605,Load Balancer 605,Data Science,PHP,Django,Expert,JavaScript|React|Node.js,5,Build a data science project using PHP and Django framework.
+606,Photo Editor 606,Blockchain,C++,Django,Beginner,Python|NLP|Text Processing,1,Build a blockchain project using C++ and Django framework.
+607,Analytics Tool 607,Data Science,Go,FastAPI,Beginner,Cybersecurity|Encryption|Penetration Testing,1,Build a data science project using Go and FastAPI framework.
+608,ERP Solution 608,Mobile,Ruby,Express,Beginner,Python|ML|Data Analysis,4,Build a mobile project using Ruby and Express framework.
+609,Password Manager 609,Web,C#,Flask,Beginner,Python|Data Analysis|Visualization,2,Build a web project using C# and Flask framework.
+610,Backup Tool 610,DevOps,Ruby,FastAPI,Beginner,JavaScript|React|Node.js|Database,3,Build a devops project using Ruby and FastAPI framework.
+611,Search Engine 611,Web,PHP,Next.js,Expert,JavaScript|React|State Management,3,Build a web project using PHP and Next.js framework.
+612,ERP Solution 612,Game Development,Go,FastAPI,Beginner,Python|NLP|Machine Learning,1,Build a game development project using Go and FastAPI framework.
+613,Log Aggregator 613,IoT,C++,Spring Boot,Beginner,JavaScript|React|Node.js|Database,5,Build a iot project using C++ and Spring Boot framework.
+614,Wiki Platform 614,Machine Learning,Java,Django,Intermediate,JavaScript|React|Node.js|Database,3,Build a machine learning project using Java and Django framework.
+615,E-Commerce 615,Cybersecurity,Go,Angular,Intermediate,JavaScript|Vue.js|API Integration,3,Build a cybersecurity project using Go and Angular framework.
+616,ERP Solution 616,Data Science,Java,Express,Beginner,Python|ML|Data Analysis,4,Build a data science project using Java and Express framework.
+617,AR Application 617,DevOps,Java,Vue.js,Advanced,Java|Spring|Microservices,5,Build a devops project using Java and Vue.js framework.
+618,Network Simulator 618,IoT,Go,Ember,Advanced,Python|ML|Data Analysis,2,Build a iot project using Go and Ember framework.
+619,Wiki Platform 619,AI,JavaScript,Flask,Intermediate,JavaScript|React|Node.js,4,Build a ai project using JavaScript and Flask framework.
+620,Notification System 620,IoT,C#,Nuxt,Expert,Blockchain|Smart Contracts|Crypto,4,Build a iot project using C# and Nuxt framework.
+621,ERP Solution 621,AI,Python,FastAPI,Expert,DevOps|Docker|Kubernetes,3,Build a ai project using Python and FastAPI framework.
+622,Firewall 622,Blockchain,Go,Next.js,Intermediate,JavaScript|React|Node.js,2,Build a blockchain project using Go and Next.js framework.
+623,Load Balancer 623,Game Development,Ruby,Angular,Intermediate,Blockchain|Smart Contracts|Crypto,2,Build a game development project using Ruby and Angular framework.
+624,Search Engine 624,IoT,Rust,Express,Advanced,JavaScript|Vue.js|API Integration,3,Build a iot project using Rust and Express framework.
+625,Weather Dashboard 625,Mobile,Ruby,Spring Boot,Expert,Cybersecurity|Encryption|Penetration Testing,1,Build a mobile project using Ruby and Spring Boot framework.
+626,File Manager 626,Blockchain,Java,Flask,Expert,DevOps|Docker|Kubernetes,1,Build a blockchain project using Java and Flask framework.
+627,Chat Application 627,Blockchain,C#,Django,Beginner,Python|NLP|Machine Learning,4,Build a blockchain project using C# and Django framework.
+628,Search Engine 628,IoT,C++,Angular,Advanced,Python|Deep Learning|Computer Vision,4,Build a iot project using C++ and Angular framework.
+629,File Manager 629,Cybersecurity,C#,Nuxt,Beginner,DevOps|Docker|Kubernetes,4,Build a cybersecurity project using C# and Nuxt framework.
+630,REST API 630,Blockchain,Ruby,Next.js,Expert,JavaScript|Vue.js|API Integration,4,Build a blockchain project using Ruby and Next.js framework.
+631,Load Balancer 631,Mobile,PHP,Next.js,Expert,Python|NLP|Machine Learning,3,Build a mobile project using PHP and Next.js framework.
+632,Load Balancer 632,Game Development,Rust,Vue.js,Expert,Python|NLP|Machine Learning,3,Build a game development project using Rust and Vue.js framework.
+633,ChatBot 633,DevOps,Go,FastAPI,Expert,Python|NLP|Text Processing,4,Build a devops project using Go and FastAPI framework.
+634,Photo Editor 634,Machine Learning,JavaScript,Spring Boot,Expert,TypeScript|OOP|Design Patterns,2,Build a machine learning project using JavaScript and Spring Boot framework.
+635,Cloud Storage 635,AI,Python,Vue.js,Advanced,JavaScript|Vue.js|API Integration,4,Build a ai project using Python and Vue.js framework.
+636,Virtual Machine 636,DevOps,Java,Flask,Beginner,Java|Spring|Microservices,2,Build a devops project using Java and Flask framework.
+637,Strategy Game 637,Blockchain,Python,Django,Expert,DevOps|Docker|Kubernetes,1,Build a blockchain project using Python and Django framework.
+638,Stock Analyzer 638,IoT,Ruby,Nuxt,Intermediate,Cybersecurity|Encryption|Penetration Testing,3,Build a iot project using Ruby and Nuxt framework.
+639,Password Manager 639,DevOps,Java,Vue.js,Intermediate,JavaScript|React|Node.js,1,Build a devops project using Java and Vue.js framework.
+640,Social Network 640,Game Development,Ruby,Angular,Advanced,JavaScript|Vue.js|API Integration,2,Build a game development project using Ruby and Angular framework.
+641,Blog Platform 641,Game Development,C#,Flask,Expert,Blockchain|Smart Contracts|Crypto,1,Build a game development project using C# and Flask framework.
+642,Analytics Tool 642,Game Development,C#,Nuxt,Advanced,Python|NLP|Text Processing,4,Build a game development project using C# and Nuxt framework.
+643,Backup Tool 643,AI,C++,Ember,Beginner,Python|ML|Data Analysis,2,Build a ai project using C++ and Ember framework.
+644,Payment Gateway 644,Game Development,Rust,Svelte,Advanced,Rust|Memory Safety|Performance,3,Build a game development project using Rust and Svelte framework.
+645,Virtual Machine 645,IoT,TypeScript,FastAPI,Beginner,Cybersecurity|Encryption|Penetration Testing,3,Build a iot project using TypeScript and FastAPI framework.
+646,CRM System 646,DevOps,Rust,Flask,Beginner,Python|Data Analysis|Visualization,5,Build a devops project using Rust and Flask framework.
+647,E-Commerce 647,AI,Java,Express,Beginner,DevOps|Docker|Kubernetes,1,Build a ai project using Java and Express framework.
+648,Image Classifier 648,Blockchain,Ruby,Spring Boot,Intermediate,JavaScript|React|Node.js|Database,3,Build a blockchain project using Ruby and Spring Boot framework.
+649,ChatBot 649,Data Science,JavaScript,Vue.js,Intermediate,JavaScript|Vue.js|API Integration,4,Build a data science project using JavaScript and Vue.js framework.
+650,REST API 650,Machine Learning,JavaScript,Django,Expert,Python|Data Analysis|Visualization,5,Build a machine learning project using JavaScript and Django framework.
